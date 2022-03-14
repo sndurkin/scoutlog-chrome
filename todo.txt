@@ -1,0 +1,37 @@
+0.31:
+  - fix bug with renaming tags on browse by tags screen
+  - fix JS error when trying to save place that has been deleted
+  - add ability to change tag colors
+  - prevent user from entering tag with same name
+  - make sure all strings are internationalized
+    -> "X selected" to grid screen
+    -> export dialog, export tabular screen
+  - add credits screen, include http://googlemaps.github.io/js-samples/styledmaps/wizard/index.html
+
+0.4:
+  - add ability to delete places
+
+0.41:
+  - add ability to delete tags
+
+0.5:
+  - add staggered grid library to display cards
+
+0.6:
+  - add place linking card
+
+0.7:
+  - add about screen
+
+before 1.0:
+  - sort places by distance, and also display distance on address card - requested by curioustux
+  - add photo zoom to photo card
+  - add link in nav drawer to ScoutLog feature voting (and update it to include Chrome extension as a separate app)
+  - add "What's New" screen
+  - add logic to fix compromised data
+  - ensure everything is internationalized (JS + index.html)
+
+future:
+  - refactor footer to support inserting/removing buttons (like 'Save')
+  - refactor dialog code to be more generic
+  - add a README for contributors

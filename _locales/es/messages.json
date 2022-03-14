@@ -1,0 +1,270 @@
+{
+  "cancel": {
+    "description": "",
+    "message": "\"Cancelar\""
+  },
+  "menu_sort": {
+    "description": "",
+    "message": "Ordenar"
+  },
+  "account_not_found_title": {
+    "description": "",
+    "message": "Cuenta Google no encontrada"
+  },
+  "open_sync_settings": {
+    "description": "",
+    "message": "Abrir configuración de sincronización"
+  },
+  "nav_action_failed": {
+    "description": "",
+    "message": "La acción de Navegación ha fallado"
+  },
+  "no_location_set": {
+    "description": "",
+    "message": "(Ubicación no establecida)"
+  },
+  "menu_sort_most_places": {
+    "description": "",
+    "message": "Lugares más etiquetados"
+  },
+  "places_deleted_snackbar_plural": {
+    "description": "",
+    "message": "$1 lugares eliminados"
+  },
+  "menu_sort_newest": {
+    "description": "",
+    "message": "Más nuevos"
+  },
+  "menu_sort_fewest_places": {
+    "description": "",
+    "message": "Lugares menos etiquetados"
+  },
+  "copied_address": {
+    "description": "",
+    "message": "Dirección copiada"
+  },
+  "copied_coordinates": {
+    "description": "",
+    "message": "Coordenadas copiadas"
+  },
+  "open_drawer": {
+    "description": "",
+    "message": "Abrir Menú de Navegación"
+  },
+  "improve_location_accuracy_wifi_message": {
+    "description": "",
+    "message": "Puede mejorar la precisión de su dispositivo activando el WiFi"
+  },
+  "account_not_found_message": {
+    "description": "",
+    "message": "Su cuenta Google Drive no pudo ser hallada, la sincronización será desactivada"
+  },
+  "menu_export_csv": {
+    "description": "",
+    "message": "Exportar como CSV"
+  },
+  "menu_sort_closest": {
+    "description": "",
+    "message": "Más cercanos"
+  },
+  "always": {
+    "description": "",
+    "message": "Siempre"
+  },
+  "settings": {
+    "description": "",
+    "message": "Configuración"
+  },
+  "untitled": {
+    "description": "",
+    "message": "(Sin título)"
+  },
+  "add_place": {
+    "description": "",
+    "message": "Agregar nuevo lugar"
+  },
+  "menu_delete_places": {
+    "description": "",
+    "message": "Borrar"
+  },
+  "empty_places_search_text": {
+    "description": "",
+    "message": "No se encontraron lugares que coincidan con el término buscado"
+  },
+  "menu_select_all": {
+    "description": "",
+    "message": "Seleccionar todo"
+  },
+  "dismiss": {
+    "description": "",
+    "message": "Descartar"
+  },
+  "address_unavailable": {
+    "description": "",
+    "message": "(Dirección no disponible actualmente)"
+  },
+  "copy_coordinates": {
+    "description": "",
+    "message": "Copiar coordenadas"
+  },
+  "export_share_intent_title": {
+    "description": "",
+    "message": "Compartir archivo"
+  },
+  "menu_sort_oldest": {
+    "description": "",
+    "message": "Más viejos"
+  },
+  "map_toggle_terrain_desc": {
+    "description": "",
+    "message": "Intercambiar vista satelital"
+  },
+  "close_drawer": {
+    "description": "",
+    "message": "Cerrar Mneú de Navegación"
+  },
+  "no": {
+    "description": "",
+    "message": "\"Cancelar\""
+  },
+  "menu_export_gpx": {
+    "description": "",
+    "message": "Exportar como GPX"
+  },
+  "display_mode": {
+    "description": "",
+    "message": "Visualización"
+  },
+  "no_google_play_services_message": {
+    "description": "",
+    "message": "No se encuentran los servicios de la aplicación Google Play"
+  },
+  "improve_location_accuracy_title": {
+    "description": "",
+    "message": "Mejorar la precisión de ubicación"
+  },
+  "export_failed_message": {
+    "description": "",
+    "message": "Ha ocurrido un error al tratar de exportar"
+  },
+  "empty_places_text": {
+    "description": "",
+    "message": "No tiene lugares guardados"
+  },
+  "new_place_desc": {
+    "description": "",
+    "message": "$1<br><br>Toque aquí para crear un nuevo lugar"
+  },
+  "menu_edit_tags": {
+    "description": "",
+    "message": "Editar eriquetas"
+  },
+  "no_google_play_services_title": {
+    "description": "",
+    "message": "No se encontraron Servicios Google Play"
+  },
+  "export_notification_title": {
+    "description": "",
+    "message": "Exportando lugares"
+  },
+  "delete": {
+    "description": "",
+    "message": "\"Eliminar\""
+  },
+  "sync_warning_dialog_title": {
+    "description": "",
+    "message": "Configurar sincronización"
+  },
+  "menu_export": {
+    "description": "",
+    "message": "Exportar"
+  },
+  "search": {
+    "description": "",
+    "message": "Buscar"
+  },
+  "undo": {
+    "description": "",
+    "message": "\"Deshacer\""
+  },
+  "places_title": {
+    "description": "",
+    "message": "Lugares"
+  },
+  "copy_address": {
+    "description": "",
+    "message": "Copiar dirección"
+  },
+  "menu_sort_reverse_alpha": {
+    "description": "",
+    "message": "Z - A"
+  },
+  "ignore": {
+    "description": "",
+    "message": "Ignorar"
+  },
+  "menu_export_kml": {
+    "description": "",
+    "message": "Exportar como KML"
+  },
+  "ok": {
+    "description": "",
+    "message": "\"Aceptar\""
+  },
+  "improve_location_accuracy_gps_message": {
+    "description": "",
+    "message": "Puede mejorar la precisión de su dispositivo activando el GPS"
+  },
+  "export_failed_title": {
+    "description": "",
+    "message": "Error al exportar"
+  },
+  "location_services_disabled_title": {
+    "description": "",
+    "message": "Ubicación desactivada"
+  },
+  "yes": {
+    "description": "",
+    "message": "\"Aceptar\""
+  },
+  "menu_sort_alpha": {
+    "description": "",
+    "message": "A - Z"
+  },
+  "location_request_failed": {
+    "description": "",
+    "message": "Error al obtener ubicación"
+  },
+  "app_name": {
+    "description": "",
+    "message": "ScoutLog"
+  },
+  "places": {
+    "description": "",
+    "message": "Lugares"
+  },
+  "waiting_for_location": {
+    "description": "",
+    "message": "Esperando ubicación..."
+  },
+  "sync_warning_dialog_message": {
+    "description": "",
+    "message": "Ha añadido más de 15 lugares a ScoutLog!<br><br>Se recomienda configurar la sincronización para asegurarse que su información está protegida en la nube"
+  },
+  "location_services_disabled_message": {
+    "description": "",
+    "message": "Los Servicios de Ubicación necesitan estar habilitados para obtener su ubicación"
+  },
+  "no_location_set_toast": {
+    "description": "",
+    "message": "Ubicación no establecida"
+  },
+  "browse_by_tags": {
+    "description": "",
+    "message": "Explorar por Etiquetas"
+  },
+  "places_deleted_snackbar_singular": {
+    "description": "",
+    "message": "$1 lugar eliminado"
+  }
+}

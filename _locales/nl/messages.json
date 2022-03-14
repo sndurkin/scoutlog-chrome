@@ -1,0 +1,938 @@
+{
+  "cancel": {
+    "description": "",
+    "message": "\"Annuleren\""
+  },
+  "pref_help_translate_title": {
+    "description": "",
+    "message": "Helpen met vertalen"
+  },
+  "account_not_found_title": {
+    "description": "",
+    "message": "Kan geen Google Account vinden"
+  },
+  "nav_action_failed": {
+    "description": "",
+    "message": "Navigatie actie is mislukt"
+  },
+  "no_location_set": {
+    "description": "",
+    "message": "(Geen locatie ingesteld)"
+  },
+  "pref_auto_sync_summary": {
+    "description": "",
+    "message": "Periodiek synchroniseren met Google Drive om je apparaat up-to-date te houden."
+  },
+  "menu_sort_newest": {
+    "description": "",
+    "message": "Nieuwste"
+  },
+  "set_location_from_photo": {
+    "description": "",
+    "message": "De foto heeft al een locatie, moet deze worden opgeslagen bij deze plaats?"
+  },
+  "copied_coordinates": {
+    "description": "",
+    "message": "Coördinaten gekopieerd"
+  },
+  "address_not_found": {
+    "description": "",
+    "message": "Adres kon niet gevonden worden"
+  },
+  "address_title": {
+    "description": "",
+    "message": "Adres"
+  },
+  "tag_edit_dialog_title": {
+    "description": "",
+    "message": "Labelnaam"
+  },
+  "sync_help_header_1": {
+    "description": "",
+    "message": "Hoe het werkt"
+  },
+  "sync_help_header_2": {
+    "description": "",
+    "message": "Probleemoplossing"
+  },
+  "pref_sync_now_summary_error": {
+    "description": "",
+    "message": "Er is een probleem opgetreden bij het synchroniseren, probeer het later opnieuw"
+  },
+  "pref_category_display": {
+    "description": "",
+    "message": "Weergave"
+  },
+  "pref_category_advanced": {
+    "description": "",
+    "message": "Geavanceerd"
+  },
+  "navigate": {
+    "description": "",
+    "message": "Navigeren"
+  },
+  "untitled": {
+    "description": "",
+    "message": "(Naamloos)"
+  },
+  "tags": {
+    "description": "",
+    "message": "Labels toevoegen"
+  },
+  "add_before": {
+    "description": "",
+    "message": "Toevoegen ervoor"
+  },
+  "import_started": {
+    "description": "",
+    "message": "Importeren gestart, zie notificatie voor details"
+  },
+  "about_credit": {
+    "description": "",
+    "message": "App logo door $1"
+  },
+  "delete_tag": {
+    "description": "",
+    "message": "Verwijderen"
+  },
+  "sync_help_text_1": {
+    "description": "",
+    "message": "Selecteer een Google Account, en ScoutLog zal een map aanmaken in Drive voor het opslaan van je plaatsen, labels en foto's. Vink de optie \"Automatisch synchroniseren\" aan om ScoutLog periodiek te laten synchroniseren met Drive."
+  },
+  "pref_help_translate_summary": {
+    "description": "",
+    "message": "E-mail mij om ScoutLog te helpen vertalen!"
+  },
+  "menu_sort_oldest": {
+    "description": "",
+    "message": "Oudste"
+  },
+  "close_drawer": {
+    "description": "",
+    "message": "Sluit navigatie menu"
+  },
+  "pref_map_marker_color": {
+    "description": "",
+    "message": "Standaard pin kleur"
+  },
+  "export_failed_message": {
+    "description": "",
+    "message": "Er is een fout opgetreden bij het maken van het zip  bestand"
+  },
+  "empty_places_text": {
+    "description": "",
+    "message": "Je hebt geen opgeslagen plaatsen"
+  },
+  "linked_place": {
+    "description": "",
+    "message": "Linken aan een andere plaats"
+  },
+  "pref_cluster_threshold_summary": {
+    "description": "",
+    "message": "Aantal pins die tegelijk op een kaart worden getoond zonder te worden samengevoegd<br><br>$1"
+  },
+  "linked_places_edit": {
+    "description": "",
+    "message": "Aanpassen"
+  },
+  "menu_edit_tags": {
+    "description": "",
+    "message": "Labels aanpassen"
+  },
+  "about_licenses": {
+    "description": "",
+    "message": "Open source licenties"
+  },
+  "sync_warning_dialog_title": {
+    "description": "",
+    "message": "Synchronisatie instellen"
+  },
+  "search": {
+    "description": "",
+    "message": "Zoeken"
+  },
+  "no_navigation_app": {
+    "description": "",
+    "message": "Kan geen navigatie app vinden"
+  },
+  "no_thanks": {
+    "description": "",
+    "message": "Nee bedankt"
+  },
+  "copy_address": {
+    "description": "",
+    "message": "Kopieer adres"
+  },
+  "tags_title": {
+    "description": "",
+    "message": "Selecteer labels"
+  },
+  "settings_advanced_title": {
+    "description": "",
+    "message": "Geavanceerd"
+  },
+  "unlock_app_places_15_message": {
+    "description": "",
+    "message": "Je hebt het maximum aantal plaatsen in de gratis versie van deze app bereikt!<br><br>Schaf de ontgrendelde versie aan om complete toegang te krijgen tot alle functies."
+  },
+  "export_failed_title": {
+    "description": "",
+    "message": "Fout bij exporteren"
+  },
+  "bulk_edit_tags_title": {
+    "description": "",
+    "message": "Labels aanpassen"
+  },
+  "untagged_places_title": {
+    "description": "",
+    "message": "Plaatsen zonder label"
+  },
+  "edit_tag": {
+    "description": "",
+    "message": "Hernoemen"
+  },
+  "pref_theme": {
+    "description": "",
+    "message": "Stijl"
+  },
+  "app_name": {
+    "description": "",
+    "message": "ScoutLog"
+  },
+  "delete_photo": {
+    "description": "",
+    "message": "Foto verwijderen"
+  },
+  "sync_warning_dialog_message": {
+    "description": "",
+    "message": "Je hebt meer dan 15 plaatsen toegevoegd aan ScoutLog! <br><br>We bevelen je aan synchronisatie in te stellen zodat je data veilig opgeslagen is in de Cloud."
+  },
+  "pref_sync_now_summary": {
+    "description": "",
+    "message": "Laatst gesynchroniseerd: $1"
+  },
+  "about_title": {
+    "description": "",
+    "message": "Over"
+  },
+  "settings_behavior_title": {
+    "description": "",
+    "message": "Gedrag"
+  },
+  "no_location_set_toast": {
+    "description": "",
+    "message": "Geen locatie ingesteld"
+  },
+  "sync_help_title": {
+    "description": "",
+    "message": "Hulp bij synchroniseren"
+  },
+  "browse_by_tags": {
+    "description": "",
+    "message": "Zoeken op labels"
+  },
+  "import_loading_files": {
+    "description": "",
+    "message": "Bestanden laden..."
+  },
+  "menu_sort": {
+    "description": "",
+    "message": "Sorteren"
+  },
+  "notes": {
+    "description": "",
+    "message": "Notitie toevoegen"
+  },
+  "unlock_app_no": {
+    "description": "",
+    "message": "Annuleren"
+  },
+  "places_deleted_snackbar_plural": {
+    "description": "",
+    "message": "$1 plaatsen verwijderd"
+  },
+  "pref_cluster_threshold_title": {
+    "description": "",
+    "message": "Groeperen van pins"
+  },
+  "set_date_from_photo": {
+    "description": "",
+    "message": "De foto heeft al een datum, moet deze worden opgeslagen bij deze plaats?"
+  },
+  "improve_location_accuracy_wifi_message": {
+    "description": "",
+    "message": "Je kunt de nauwkeurigheid van de locatie van je apparaat verbeteren door het inschakelen van WiFi."
+  },
+  "select_linked_places_title": {
+    "description": "",
+    "message": "Plaatsen selecteren"
+  },
+  "send_email": {
+    "description": "",
+    "message": "Stuur e-mail"
+  },
+  "empty_photos_text": {
+    "description": "",
+    "message": "Je hebt geen foto's opgeslagen voor deze plaats."
+  },
+  "address_unavailable": {
+    "description": "",
+    "message": "(Adres momenteel niet beschikbaar)"
+  },
+  "use_default": {
+    "description": "",
+    "message": "Gebruik standaard"
+  },
+  "share_place": {
+    "description": "",
+    "message": "Delen"
+  },
+  "importing_place": {
+    "description": "",
+    "message": "Plaats importeren..."
+  },
+  "map_toggle_terrain_desc": {
+    "description": "",
+    "message": "Schakelen tussen normale en satelliet kaarttype"
+  },
+  "pref_measurement": {
+    "description": "",
+    "message": "Afstandsmaten"
+  },
+  "duplicate_tag_error": {
+    "description": "",
+    "message": "Een label met deze naam bestaat al"
+  },
+  "next": {
+    "description": "",
+    "message": "Volgende"
+  },
+  "sync_email_button": {
+    "description": "",
+    "message": "E-mail mij om het probleem op te lossen"
+  },
+  "import_complete_notification_message_imported": {
+    "description": "",
+    "message": "$1 plaatsen geïmporteerd"
+  },
+  "no_google_play_services_message": {
+    "description": "",
+    "message": "Kan de Google Play service app niet vinden"
+  },
+  "improve_location_accuracy_title": {
+    "description": "",
+    "message": "Nauwkeurigheid van je locatie verbeteren"
+  },
+  "unlock_app_yes": {
+    "description": "",
+    "message": "App ontgrendelen"
+  },
+  "map_search": {
+    "description": "",
+    "message": "Adres zoeken"
+  },
+  "integ_help_header_1": {
+    "description": "",
+    "message": "Hoe het werkt"
+  },
+  "import_notification_message": {
+    "description": "",
+    "message": "Plaatsen aan het importeren vanuit het bestand"
+  },
+  "import_complete_notification_title": {
+    "description": "",
+    "message": "Importeren is compleet"
+  },
+  "title": {
+    "description": "",
+    "message": "Naam"
+  },
+  "export_notification_title": {
+    "description": "",
+    "message": "Plaatsen exporteren"
+  },
+  "full_sync_button": {
+    "description": "",
+    "message": "Volledige synchronisatie uitvoeren"
+  },
+  "about_version": {
+    "description": "",
+    "message": "v$1"
+  },
+  "num_places_tagged_text_plural": {
+    "description": "",
+    "message": "$1 plaatsen"
+  },
+  "menu_export": {
+    "description": "",
+    "message": "Exporteren als zip bestand"
+  },
+  "pref_notify_unsaved_changes_title": {
+    "description": "",
+    "message": "Waarschuwing voor niet opgeslagen aanpassingen"
+  },
+  "pref_category_sync": {
+    "description": "",
+    "message": "Synchroniseren naar Google Drive"
+  },
+  "undo": {
+    "description": "",
+    "message": "\"Ongedaan maken\""
+  },
+  "integ_help_header_2": {
+    "description": "",
+    "message": "Importeren van Google Maps favorieten"
+  },
+  "places_title": {
+    "description": "",
+    "message": "Plaatsen"
+  },
+  "ignore": {
+    "description": "",
+    "message": "Negeren"
+  },
+  "pref_sync_now_summary_google_error": {
+    "description": "",
+    "message": "Er is een probleem opgereden bij het verbinden met Google, probeer het later opnieuw"
+  },
+  "linked_places_filter_text": {
+    "description": "",
+    "message": "Plaatsen filteren"
+  },
+  "share_text": {
+    "description": "",
+    "message": "Gedeeld via de ScoutLog app"
+  },
+  "yes": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "about_email": {
+    "description": "",
+    "message": "E-mail me!"
+  },
+  "pref_photo_storage_title": {
+    "description": "",
+    "message": "Foto opslag"
+  },
+  "settings_integ_title": {
+    "description": "",
+    "message": "Importeren"
+  },
+  "settings_main_title": {
+    "description": "",
+    "message": "Instellingen"
+  },
+  "pref_account_summary": {
+    "description": "",
+    "message": "Inloggen bij een Google Account"
+  },
+  "empty_tags_text": {
+    "description": "",
+    "message": "Je hebt geen opgeslagen labels."
+  },
+  "location_request_failed": {
+    "description": "",
+    "message": "Locatie ophalen mislukt"
+  },
+  "gdrive_storage_full_message": {
+    "description": "",
+    "message": "Je Google Drive opslag is vol, ScoutLog kan dus niet langer data synchroniseren.<br><br>Maak ruimte vrij alvorens je opnieuw probeert te synchroniseren."
+  },
+  "add_tag_from_search": {
+    "description": "",
+    "message": "Voeg label \"$1\" toe"
+  },
+  "waiting_for_location": {
+    "description": "",
+    "message": "Wachten op locatie..."
+  },
+  "photo_deleted_snackbar": {
+    "description": "",
+    "message": "Foto is verwijderd"
+  },
+  "browse_by_tags_title": {
+    "description": "",
+    "message": "Zoeken op label"
+  },
+  "places_deleted_snackbar_singular": {
+    "description": "",
+    "message": "$1 plaats verwijderd"
+  },
+  "sticky_current_location_help_screen_3": {
+    "description": "",
+    "message": "Let op: deze functie kost extra energie en zal je batterij leeg trekken wanneer het lange tijd is ingeschakeld."
+  },
+  "open_sync_settings": {
+    "description": "",
+    "message": "Open synchronisatie instellingen"
+  },
+  "menu_sort_most_places": {
+    "description": "",
+    "message": "Meest gelabelde plaatsen"
+  },
+  "tag_deleted_snackbar": {
+    "description": "",
+    "message": "Label is verwijderd"
+  },
+  "review_app_action": {
+    "description": "",
+    "message": "Beoordelen"
+  },
+  "dialog_color_picker_title": {
+    "description": "",
+    "message": "Selecteer een kleur"
+  },
+  "menu_sort_fewest_places": {
+    "description": "",
+    "message": "Minst gelabelde plaatsen"
+  },
+  "pref_reporting_summary": {
+    "description": "",
+    "message": "Help ScoutLog te verbeteren door anonieme gebruiksinformatie te versturen"
+  },
+  "open_drawer": {
+    "description": "",
+    "message": "Open navigatie menu"
+  },
+  "unlock_app_extension": {
+    "description": "",
+    "message": "Geef me er nog 5"
+  },
+  "new_place": {
+    "description": "",
+    "message": "Nieuwe plaats"
+  },
+  "account_not_found_message": {
+    "description": "",
+    "message": "Je Google Drive account is niet gevonden, het synchroniseren zal worden afgebroken"
+  },
+  "sticky_current_location_help_screen_1": {
+    "description": "",
+    "message": "Je hebt de \"Volg uw locatie\" modus ingeschakeld!<br><br>In deze modus zal, wanneer je klikt op de huidige locatie knop, de kaart gecentreerd blijven op je locatie."
+  },
+  "sticky_current_location_help_screen_2": {
+    "description": "",
+    "message": "Je kunt dit uitschakelen door weer op de huidige locatie knop te klikken, of door de kaart te verplaatsen door te swipen."
+  },
+  "add_after_tags_hint_text": {
+    "description": "",
+    "message": "Labels toe te voegen na bestaande"
+  },
+  "pref_ignore_imported_duplicates_title": {
+    "description": "",
+    "message": "Duplicaten negeren"
+  },
+  "menu_delete_places": {
+    "description": "",
+    "message": "Verwijderen"
+  },
+  "empty_places_search_text": {
+    "description": "",
+    "message": "Er zijn geen plaatsen gevonden op basis van de zoekterm"
+  },
+  "menu_select_all": {
+    "description": "",
+    "message": "Alles selecteren"
+  },
+  "dismiss": {
+    "description": "",
+    "message": "Negeren"
+  },
+  "no_photo_for_sharing": {
+    "description": "",
+    "message": "Geen foto beschikbaar om te delen"
+  },
+  "no_camera_found_message": {
+    "description": "",
+    "message": "Geen camera gevonden op dit apparaat"
+  },
+  "copy_coordinates": {
+    "description": "",
+    "message": "Kopieer coördinaten"
+  },
+  "pref_reporting_title": {
+    "description": "",
+    "message": "Verbeter ScoutLog"
+  },
+  "export_share_intent_title": {
+    "description": "",
+    "message": "Zip bestand delen"
+  },
+  "auto_sync_dialog_message": {
+    "description": "",
+    "message": "Auto-sync voor het gehele systeem moet worden ingeschakeld, wat betekent dat aanpassingen die je maakt in alle apps en accounts, niet alleen ScoutLog, zullen worden gesynchroniseerd."
+  },
+  "gdrive_storage_full_title": {
+    "description": "",
+    "message": "Drive opslag is vol"
+  },
+  "review_app_message": {
+    "description": "",
+    "message": "Vindt je ScoutLog leuk? Beoordeel het alsjeblieft in de Play Store!"
+  },
+  "pref_enable_linked_places_summary": {
+    "description": "",
+    "message": "Maakt het mogelijk meerdere plaatsen aan elkaar te linken in het detail scherm"
+  },
+  "details_tab_title": {
+    "description": "",
+    "message": "Details"
+  },
+  "pref_ignore_imported_duplicates_summary": {
+    "description": "",
+    "message": "Geïmporteerde plaatsen waarvan de coördinaten al verbonden zijn aan bestaande plaatsen worden genegeerd"
+  },
+  "display_mode": {
+    "description": "",
+    "message": "Weergave modus:"
+  },
+  "new_place_desc": {
+    "description": "",
+    "message": "$1<br><br>Klik om hier een nieuwe plaats te maken"
+  },
+  "remove_tags_hint_text": {
+    "description": "",
+    "message": "Labels die verwijderd worden"
+  },
+  "save": {
+    "description": "",
+    "message": "Opslaan"
+  },
+  "settings_advanced_category": {
+    "description": "",
+    "message": "Geavanceerd"
+  },
+  "pref_list_view_photos": {
+    "description": "",
+    "message": "Foto's tonen in lijstweergave"
+  },
+  "menu_sort_reverse_alpha": {
+    "description": "",
+    "message": "Z - A"
+  },
+  "pick_date": {
+    "description": "",
+    "message": "Kies een datum voor deze plaats"
+  },
+  "photos_tab_title": {
+    "description": "",
+    "message": "\"Foto's \""
+  },
+  "pref_show_closest_address_summary": {
+    "description": "",
+    "message": "Als een plaats alleen coördinaten heeft het dichtstbijzijnde adres tonen"
+  },
+  "select_tags_help_screen_2": {
+    "description": "",
+    "message": "Als een plaats een label heeft wordt de kleur van de eerste de kleur van de pin van die plaats."
+  },
+  "select_tags_help_screen_1": {
+    "description": "",
+    "message": "Een plaats kan meerdere labels hebben, en elk label kan een andere kleur hebben."
+  },
+  "location_services_disabled_title": {
+    "description": "",
+    "message": "Locatie voorzieningen uitgeschakeld"
+  },
+  "menu_sort_alpha": {
+    "description": "",
+    "message": "A - Z"
+  },
+  "appx_address_title": {
+    "description": "",
+    "message": "Dichtstbijzijnde adres"
+  },
+  "pref_show_closest_address_title": {
+    "description": "",
+    "message": "Toon het dichtstbijzijnde adres"
+  },
+  "pref_category_integ": {
+    "description": "",
+    "message": "Importeren"
+  },
+  "places": {
+    "description": "",
+    "message": "Plaatsen"
+  },
+  "info_set_from_photo": {
+    "description": "",
+    "message": "Informatie van foto is opgeslagen"
+  },
+  "add_tag": {
+    "description": "",
+    "message": "Label toevoegen"
+  },
+  "pref_category_behavior": {
+    "description": "",
+    "message": "Gedrag"
+  },
+  "import_failed_title": {
+    "description": "",
+    "message": "Fout bij importeren"
+  },
+  "import_data_not_recognized": {
+    "description": "",
+    "message": "Data gedeeld met ScoutLog wordt niet herkend"
+  },
+  "import_complete_notification_message_ignored": {
+    "description": "",
+    "message": "$1 plaatsen genegeerd"
+  },
+  "place_created": {
+    "description": "",
+    "message": "Nieuwe plaats is aangemaakt"
+  },
+  "delete_place": {
+    "description": "",
+    "message": "Verwijderen"
+  },
+  "unlock_app_places_10_message": {
+    "description": "",
+    "message": "In de gratis versie van deze app kun je maar een beperkt aantal plaatsen aanmaken.<br><br>Schaf de ontgrendelde versie aan om complete toegang te krijgen tot alle functies."
+  },
+  "auto_sync_dialog_title": {
+    "description": "",
+    "message": "Auto-sync inschakelen?"
+  },
+  "pref_auto_sync_title": {
+    "description": "",
+    "message": "Automatisch synchroniseren"
+  },
+  "settings_display_title": {
+    "description": "",
+    "message": "Instelligen: Weergave"
+  },
+  "import_notification_title": {
+    "description": "",
+    "message": "Plaatsen importeren"
+  },
+  "copied_address": {
+    "description": "",
+    "message": "Adres gekopieerd"
+  },
+  "bulk_edit_tags_help_screen_3": {
+    "description": "",
+    "message": "Je kunt ook bestaande labels verwijderen door in de toolbar de aanpassingsmodus te veranderen."
+  },
+  "pref_about_title": {
+    "description": "",
+    "message": "Over"
+  },
+  "turn_on_auto_sync": {
+    "description": "",
+    "message": "Inschakelen"
+  },
+  "pref_enable_linked_places_title": {
+    "description": "",
+    "message": "Linken van plaatsen inschakelen"
+  },
+  "always": {
+    "description": "",
+    "message": "Altijd"
+  },
+  "settings": {
+    "description": "",
+    "message": "\"Instellingen \""
+  },
+  "add_place": {
+    "description": "",
+    "message": "Nieuwe plaats toevoegen"
+  },
+  "sync_help_text_2b": {
+    "description": "",
+    "message": "Als synchroniseren vaak mislukt, kun je mij (de ontwikkelaar) een e-mail sturen. Deze e-mail bevat anonieme informatie over recente synchronisatie fouten die me kan helpen bestaande problemen op te lossen."
+  },
+  "pref_notify_unsaved_changes_summary": {
+    "description": "",
+    "message": "Toon een waarschuwingsbericht voordat niet opgeslagen aanpassingen worden weggegooid"
+  },
+  "integ_help_text_2": {
+    "description": "",
+    "message": "Om favorieten te importeren uit Google Maps open je $1 in een browser en klik je op \"Bookmarks exporteren\". De site lijkt niet goed ontworpen te zijn voor mobiele apparaten dus het is misschien makkelijker dit te doen vanaf een computer. De link zou een download moeten starten voor een bestand dat je vervolgens kunt delen naar ScoutLog."
+  },
+  "select_tags_hint_text": {
+    "description": "",
+    "message": "Selecteer labels voor de plaats"
+  },
+  "got_it": {
+    "description": "",
+    "message": "Ik begrijp het"
+  },
+  "set_title": {
+    "description": "",
+    "message": "Kies naam"
+  },
+  "empty_filtered_tags_text": {
+    "description": "",
+    "message": "Je hebt geen labels die overeenkomen met je zoekopdracht."
+  },
+  "sync_help_text_2a": {
+    "description": "",
+    "message": "Als een gedeelte van je data niet gesynchroniseerd lijkt te worden met Google Drive, zou er een probleem kunnen zijn met de metadata. Om efficiëntie te maximaliseren bewaart ScoutLog metadata om bij te kunnen houden welke data is veranderd sinds de vorige synchronisatie. Gebruik de knop hieronder om de metadata te wissen en een volledige synchronisatie uit te voeren."
+  },
+  "place_deleted": {
+    "description": "",
+    "message": "Plaats is verwijderd"
+  },
+  "bulk_edit_tags_help_screen_2": {
+    "description": "",
+    "message": "Je kunt dus bij iedere plaats meerdere labels toevoegen, voor of na de reeds bestaande labels."
+  },
+  "bulk_edit_tags_help_screen_1": {
+    "description": "",
+    "message": "Iedere plaats kan meerdere labels hebben, en deze hebben een specifieke volgorde."
+  },
+  "no_email_apps": {
+    "description": "",
+    "message": "Er zijn geen e-mail applicaties geïnstalleerd op je apparaat."
+  },
+  "integ_help_text_1": {
+    "description": "",
+    "message": "Deel een bestand naar ScoutLog om de data ervan te importeren. Momenteel worden alleen GPX en Google Bookmark bestanden ondersteund. Als je problemen hebt met het importeren of hulp wil bij een bestandsvorm kun je mij e-mailen."
+  },
+  "pref_sticky_current_location_summary": {
+    "description": "",
+    "message": "Als dit is ingeschakeld zal de kaart gecentreerd blijven op de locatie van je apparaat, ook als je je verplaatst"
+  },
+  "photo_notes": {
+    "description": "",
+    "message": "Voeg een notitie toe"
+  },
+  "pref_sync_now_title": {
+    "description": "",
+    "message": "Nu synchroniseren"
+  },
+  "no": {
+    "description": "",
+    "message": "\"Annuleren\""
+  },
+  "share_photo": {
+    "description": "",
+    "message": "\"Foto delen \""
+  },
+  "pref_account_title": {
+    "description": "",
+    "message": "Account"
+  },
+  "edit_note": {
+    "description": "",
+    "message": "Notitie bewerken"
+  },
+  "add_before_tags_hint_text": {
+    "description": "",
+    "message": "Labels toe te voegen voor bestaande"
+  },
+  "unlock_app_title": {
+    "description": "",
+    "message": "Ontgrendel meer functies"
+  },
+  "add_after": {
+    "description": "",
+    "message": "Toevoegen erna"
+  },
+  "pref_unlock_title": {
+    "description": "",
+    "message": "ScoutLog ontgrendelen"
+  },
+  "set_location_and_date_from_photo": {
+    "description": "",
+    "message": "De foto heeft al een datum en locatie, moeten deze worden opgeslagen bij deze plaats?"
+  },
+  "pref_sticky_current_location_title": {
+    "description": "",
+    "message": "Volg je locatie"
+  },
+  "show_help": {
+    "description": "",
+    "message": "Hulp weergeven"
+  },
+  "no_google_play_services_title": {
+    "description": "",
+    "message": "Google Play Services niet gevonden"
+  },
+  "num_places_tagged_text_singular": {
+    "description": "",
+    "message": "$1 plaats"
+  },
+  "camera_file_not_created_message": {
+    "description": "",
+    "message": "\"Er is een fout opgetreden bij het openen van de camera! Neem met de standaard camera app een foto en voeg deze toe vanuit de galerij. \""
+  },
+  "delete": {
+    "description": "",
+    "message": "\"Verwijderen\""
+  },
+  "import_failed": {
+    "description": "",
+    "message": "Importeren van de data is mislukt"
+  },
+  "ok": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "improve_location_accuracy_gps_message": {
+    "description": "",
+    "message": "Je kunt de nauwkeurigheid van de locatie van je apparaat verbeteren door het inschakelen van GPS."
+  },
+  "camera_file_not_created_title": {
+    "description": "",
+    "message": "Camera fout"
+  },
+  "most_accurate_location_set": {
+    "description": "",
+    "message": "Meest nauwkeurige locatie ingesteld"
+  },
+  "coordinates_title": {
+    "description": "",
+    "message": "Coördinaten"
+  },
+  "integ_email_button": {
+    "description": "",
+    "message": "E-mail mij"
+  },
+  "pref_unlock_summary": {
+    "description": "",
+    "message": "Schaf de ontgrendelde versie aan voor complete toegang tot ScoutLog"
+  },
+  "integ_help_title": {
+    "description": "",
+    "message": "Hulp bij importeren"
+  },
+  "about_concerns": {
+    "description": "",
+    "message": "Vragen, commentaar, zorgen?"
+  },
+  "untagged_places": {
+    "description": "",
+    "message": "(Ongelabeld)"
+  },
+  "edit_title": {
+    "description": "",
+    "message": "Naam aanpassen"
+  },
+  "add_photo_camera": {
+    "description": "",
+    "message": "Foto maken met camera"
+  },
+  "add_photo_gallery": {
+    "description": "",
+    "message": "Foto kiezen uit galerij"
+  },
+  "no_camera_found_title": {
+    "description": "",
+    "message": "Geen camera gevonden"
+  },
+  "settings_sync_title": {
+    "description": "",
+    "message": "Synchronisatie"
+  },
+  "import_failed_message": {
+    "description": "",
+    "message": "Er is een fout opgetreden, dit bestandstype wordt misschien niet ondersteund. Klik om mij te e-mailen voor hulp."
+  },
+  "location_services_disabled_message": {
+    "description": "",
+    "message": "Locatie voorzieningen moeten zijn ingeschakeld om je locatie op te kunnen halen"
+  }
+}

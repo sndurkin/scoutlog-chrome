@@ -1,0 +1,1338 @@
+{
+  "cancel": {
+    "description": "",
+    "message": "\"Mégse\""
+  },
+  "pref_help_translate_title": {
+    "description": "",
+    "message": "Segíts a fordításban"
+  },
+  "import_warning_title": {
+    "description": "",
+    "message": "Figyelmeztetés"
+  },
+  "account_not_found_title": {
+    "description": "",
+    "message": "Google fiók nem található"
+  },
+  "upload": {
+    "description": "",
+    "message": "Feltöltés"
+  },
+  "import_warning_message": {
+    "description": "",
+    "message": "Legfeljebb 15 helyet importálhatsz az ingyenes ScoutLog verzióban. Ha ennél többet szeretnél, vásárold meg a teljes verziót.<br><br>Folytatod az importálást?"
+  },
+  "import_photos_complete_notification_message_imported_plural": {
+    "description": "",
+    "message": "$1 kép importálva"
+  },
+  "nav_action_failed": {
+    "description": "",
+    "message": "Menüsáv hiba"
+  },
+  "no_location_set": {
+    "description": "",
+    "message": "(Jelenlegi pozíció ismeretlen)"
+  },
+  "pref_auto_sync_summary": {
+    "description": "",
+    "message": "Időszakosan szinkronizál a Google Drive-al, hogy a készülékedet naprakészen tartsa."
+  },
+  "pref_show_distances_title": {
+    "description": "",
+    "message": "Távoltág mutatása"
+  },
+  "menu_sort_newest": {
+    "description": "",
+    "message": "Legújabb"
+  },
+  "empty_media_text": {
+    "description": "",
+    "message": "Nincs mentett média ehhez a helyhez."
+  },
+  "set_location_from_photo": {
+    "description": "",
+    "message": "Ez a fotó GPS koordinátákat tartalmaz. Mentsük ezt a pozíciót  ehhez a helyhez?"
+  },
+  "copied_coordinates": {
+    "description": "",
+    "message": "Másolt koordináták"
+  },
+  "address_not_found": {
+    "description": "",
+    "message": "Cím nem található"
+  },
+  "address_title": {
+    "description": "",
+    "message": "Cím"
+  },
+  "tag_edit_dialog_title": {
+    "description": "",
+    "message": "Címke neve"
+  },
+  "sync_help_header_1": {
+    "description": "",
+    "message": "Hogyan működik"
+  },
+  "set_map_marker": {
+    "description": "",
+    "message": "Jelölés beállítása"
+  },
+  "sync_help_header_2": {
+    "description": "",
+    "message": "Hibaelhárítás"
+  },
+  "pref_sync_now_summary_error": {
+    "description": "",
+    "message": "Hiba történt szinkronizálás közben, próbáld újra később"
+  },
+  "add_audio_recording": {
+    "description": "",
+    "message": "Hang rögzítése"
+  },
+  "pref_category_display": {
+    "description": "",
+    "message": "Megjelenítés"
+  },
+  "pref_category_advanced": {
+    "description": "",
+    "message": "Haladó beállítások"
+  },
+  "navigate": {
+    "description": "",
+    "message": "Navigálás"
+  },
+  "untitled": {
+    "description": "",
+    "message": "(Névtelen)"
+  },
+  "move_photos_error_message": {
+    "description": "",
+    "message": "Hiba történt a képek áthelyezése közben"
+  },
+  "help_and_feedback": {
+    "description": "",
+    "message": "Segítségért, javaslatért írj emailt"
+  },
+  "pref_enable_dates_summary": {
+    "description": "",
+    "message": "Dátumot menthetsz a helyekhez"
+  },
+  "tags": {
+    "description": "",
+    "message": "Címke hozzáadása"
+  },
+  "add_before": {
+    "description": "",
+    "message": "Beszúrás előtte"
+  },
+  "import_started": {
+    "description": "",
+    "message": "Importálás megkezdődött, figyled az értesítéseket"
+  },
+  "about_credit": {
+    "description": "",
+    "message": "Az ikont $1 tervezte"
+  },
+  "delete_tag": {
+    "description": "",
+    "message": "Törlés"
+  },
+  "sync_help_text_1": {
+    "description": "",
+    "message": "Válassz ki egy Google fiókot, és a ScoutLog létrehoz egy mappát a Drive meghajtón, ahol a helyeket, címkéket és képeket tárolja. Kapcsold be az \"Automatikus szinkronizálás\" opciót, így a ScoutLog időről időre szinkronizál a felhővel."
+  },
+  "pref_help_translate_summary": {
+    "description": "",
+    "message": "Küldj emailt, ha segítenél a ScoutLog fordításában más nyelvekre is!"
+  },
+  "menu_sort_oldest": {
+    "description": "",
+    "message": "Legrégebbi"
+  },
+  "close_drawer": {
+    "description": "",
+    "message": "Menüsáv bezárása"
+  },
+  "settings_general_category": {
+    "description": "",
+    "message": "Általános"
+  },
+  "menu_export_gpx": {
+    "description": "",
+    "message": "GPX exportálása"
+  },
+  "stop_audio_recording": {
+    "description": "",
+    "message": "Hangfelvétel megállítása"
+  },
+  "pref_map_marker_color": {
+    "description": "",
+    "message": "Alapértelmezett térkép jelölés színe"
+  },
+  "export_failed_message": {
+    "description": "",
+    "message": "Hiba történt exportálás közben."
+  },
+  "empty_places_text": {
+    "description": "",
+    "message": "Nincs egyetlen mentett hely sem."
+  },
+  "linked_place": {
+    "description": "",
+    "message": "Csatolás másik helyhez"
+  },
+  "pref_cluster_threshold_summary": {
+    "description": "",
+    "message": "Hány darab jelölésnél kezdje csoportosítani a jelöléseket a térképen?<br><br>$1"
+  },
+  "notes_title": {
+    "description": "",
+    "message": "Jegyzetek"
+  },
+  "linked_places_edit": {
+    "description": "",
+    "message": "Szerkeszt"
+  },
+  "menu_edit_tags": {
+    "description": "",
+    "message": "Címkék szerkesztése"
+  },
+  "about_licenses": {
+    "description": "",
+    "message": "Nyílt forráskódú licenszek"
+  },
+  "sync_warning_dialog_title": {
+    "description": "",
+    "message": "Szinkronizálás beállítása"
+  },
+  "search": {
+    "description": "",
+    "message": "Keresés"
+  },
+  "no_navigation_app": {
+    "description": "",
+    "message": "Nem található navigációs app"
+  },
+  "no_thanks": {
+    "description": "",
+    "message": "Köszönöm, nem"
+  },
+  "copy_address": {
+    "description": "",
+    "message": "Cím másolása"
+  },
+  "tags_title": {
+    "description": "",
+    "message": "Címke kiválasztása"
+  },
+  "close": {
+    "description": "",
+    "message": "Bezár"
+  },
+  "settings_advanced_title": {
+    "description": "",
+    "message": "Beállítások: Haladó"
+  },
+  "unlock_app_places_15_message": {
+    "description": "",
+    "message": "Elérted az ingyenes verzió által engedélyezett helyek számát.<br><br>Ha teljes hozzáférést szeretnél a program összes funkciójához, kérlek vásárold meg a teljes verziót."
+  },
+  "try_again": {
+    "description": "",
+    "message": "Újra"
+  },
+  "export_failed_title": {
+    "description": "",
+    "message": "Exportálási hiba"
+  },
+  "bulk_edit_tags_title": {
+    "description": "",
+    "message": "Címkék szerkesztése"
+  },
+  "add_place_widget_picker_title": {
+    "description": "",
+    "message": "Hely gyors-hozzáadása"
+  },
+  "untagged_places_title": {
+    "description": "",
+    "message": "Címke nélküli helyek"
+  },
+  "edit_tag": {
+    "description": "",
+    "message": "Átnevez"
+  },
+  "pref_theme": {
+    "description": "",
+    "message": "Téma"
+  },
+  "app_name": {
+    "description": "",
+    "message": "ScoutLog"
+  },
+  "delete_photo": {
+    "description": "",
+    "message": "Kép törlése"
+  },
+  "photo_not_loaded_message": {
+    "description": "",
+    "message": "A kép nem tölthető be."
+  },
+  "selected_image": {
+    "description": "",
+    "message": "Kiválasztott kép"
+  },
+  "sync_warning_dialog_message": {
+    "description": "",
+    "message": "Több mint 15 helyet mentettél el a ScoutLog-ban!<br><br>Erősen ajánlott beállítani a szinkronizálást, hogy az adataid biztonságban legyenek a felhőben."
+  },
+  "default_color": {
+    "description": "",
+    "message": "Alapértelmezett"
+  },
+  "pref_sync_now_summary": {
+    "description": "",
+    "message": "Utolsó szinkronizálás: $1"
+  },
+  "about_title": {
+    "description": "",
+    "message": "Névjegy"
+  },
+  "move_photos_message": {
+    "description": "",
+    "message": "Át szeretnéd helyezni a képeidet a régi mappából az újba?"
+  },
+  "settings_behavior_title": {
+    "description": "",
+    "message": "Beállítások: Viselkedés"
+  },
+  "app_desc": {
+    "description": "",
+    "message": "Ments el és rendezz fontos földrajzi helyeket, szinkronizáld őket az androidos eszközeiddel és a ScoutLog app segítségével."
+  },
+  "no_location_set_toast": {
+    "description": "",
+    "message": "Jelenlegi pozíció ismeretlen"
+  },
+  "sync_help_title": {
+    "description": "",
+    "message": "Szinkronizálás Súgó"
+  },
+  "import_photos_notification_message_plural": {
+    "description": "",
+    "message": "$1 kép importálása"
+  },
+  "browse_by_tags": {
+    "description": "",
+    "message": "Böngészés címkék szerint"
+  },
+  "email_for_help": {
+    "description": "",
+    "message": "Kérj segítséget emailen"
+  },
+  "import_loading_files": {
+    "description": "",
+    "message": "Fájlok betöltése..."
+  },
+  "menu_sort": {
+    "description": "",
+    "message": "Rendezés"
+  },
+  "notes": {
+    "description": "",
+    "message": "Jegyzet hozzáadása"
+  },
+  "settings_map_category": {
+    "description": "",
+    "message": "Térkép"
+  },
+  "unlock_app_no": {
+    "description": "",
+    "message": "Mégse"
+  },
+  "notify_unsaved_changes_dialog_message": {
+    "description": "",
+    "message": "Módosítottál ezen az oldalon. Elveted ezeket?"
+  },
+  "places_deleted_snackbar_plural": {
+    "description": "",
+    "message": "$1 hely törölve"
+  },
+  "pref_cluster_threshold_title": {
+    "description": "",
+    "message": "Jelölések csoportosítása"
+  },
+  "location_request_for_places_failed_title": {
+    "description": "",
+    "message": "Pozíció frissítése sikertelen"
+  },
+  "copy_current_datetime": {
+    "description": "",
+    "message": "Jelenlegi dátum másolása"
+  },
+  "set_date_from_photo": {
+    "description": "",
+    "message": "Ez a fotó dátumot tartalmaz. Mentsük ezt a dátumot ehhez a helyhez?"
+  },
+  "cannot_create_folder": {
+    "description": "",
+    "message": "ScoutLog mappa létrehozása sikertelen"
+  },
+  "improve_location_accuracy_wifi_message": {
+    "description": "",
+    "message": "Pontosíthatsz a jelenlegi pozíciódon, ha bekapcsolod a WiFi-t."
+  },
+  "media_tab_title": {
+    "description": "",
+    "message": "Média"
+  },
+  "pref_photos_location_title": {
+    "description": "",
+    "message": "Képek tárolómappája"
+  },
+  "import_photos_complete_notification_message_imported_singular": {
+    "description": "",
+    "message": "$1 kép importálva"
+  },
+  "custom_marker": {
+    "description": "",
+    "message": "Egyéni jelölés"
+  },
+  "switch_display_mode_suggestion_title": {
+    "description": "",
+    "message": "Váltás a nézet módok között"
+  },
+  "select_linked_places_title": {
+    "description": "",
+    "message": "Válassz helyeket"
+  },
+  "send_email": {
+    "description": "",
+    "message": "Küldj emailt"
+  },
+  "date_title": {
+    "description": "",
+    "message": "Dátum"
+  },
+  "file_create_error_message": {
+    "description": "",
+    "message": "\"Az alábbi mappa nem létezik, vagy a ScoutLog-nak nincs jogosultsága fájlokat létrehozni benne:<br><br>$1<br><br>Adj jogosultságot a ScoutLog-nak hogy létrehozhasson fájlokat, vagy változtasd meg a média tárolómappa helyét a beállítások alatt. \""
+  },
+  "address_unavailable": {
+    "description": "",
+    "message": "(A cím jelenleg ismeretlen)"
+  },
+  "use_default": {
+    "description": "",
+    "message": "Alapértelmezett"
+  },
+  "share_place": {
+    "description": "",
+    "message": "Megosztás"
+  },
+  "move_photos_error_title": {
+    "description": "",
+    "message": "Képek áthelyezése sikertelen"
+  },
+  "importing_place": {
+    "description": "",
+    "message": "Hely importálása..."
+  },
+  "delete_audio_recording": {
+    "description": "",
+    "message": "Hangfelvétel törlése"
+  },
+  "map_toggle_terrain_desc": {
+    "description": "",
+    "message": "Váltás műholdas hibrid térképre"
+  },
+  "pref_measurement": {
+    "description": "",
+    "message": "Mértékegység"
+  },
+  "pref_show_map_markers_title": {
+    "description": "",
+    "message": "Egyéni jelölések mutatása"
+  },
+  "start_recording": {
+    "description": "",
+    "message": "Felvétel indítása"
+  },
+  "duplicate_tag_error": {
+    "description": "",
+    "message": "Ilyen nevű címke már létezik"
+  },
+  "copy_datetime": {
+    "description": "",
+    "message": "Dátum és idő másolása"
+  },
+  "next": {
+    "description": "",
+    "message": "Tovább"
+  },
+  "default_marker": {
+    "description": "",
+    "message": "Alapértelmezett jelölés"
+  },
+  "sync_email_button": {
+    "description": "",
+    "message": "Email a fejlesztőnek, hogy megkeresse a hibát"
+  },
+  "import_complete_notification_message_imported": {
+    "description": "",
+    "message": "$1 importálva"
+  },
+  "no_google_play_services_message": {
+    "description": "",
+    "message": "Nem található a 'Google Play-szolgáltatások' app"
+  },
+  "improve_location_accuracy_title": {
+    "description": "",
+    "message": "Pontosít a jelenlegi pozíción"
+  },
+  "unlock_app_yes": {
+    "description": "",
+    "message": "Teljes verzió"
+  },
+  "map_search": {
+    "description": "",
+    "message": "Cím keresése"
+  },
+  "integ_help_header_1": {
+    "description": "",
+    "message": "Hogyan működik"
+  },
+  "import_notification_message": {
+    "description": "",
+    "message": "Helyek importálása a fájlból"
+  },
+  "import_complete_notification_title": {
+    "description": "",
+    "message": "Importálás befejeződött"
+  },
+  "title": {
+    "description": "",
+    "message": "Név"
+  },
+  "export_notification_title": {
+    "description": "",
+    "message": "Helyek exportálása"
+  },
+  "full_sync_button": {
+    "description": "",
+    "message": "Teljes szinkronizálás"
+  },
+  "selected_color": {
+    "description": "",
+    "message": "Kiálasztott szín"
+  },
+  "about_version": {
+    "description": "",
+    "message": "$1 verzió"
+  },
+  "num_places_tagged_text_plural": {
+    "description": "",
+    "message": "$1 hely"
+  },
+  "menu_export": {
+    "description": "",
+    "message": "Exportálás"
+  },
+  "pref_notify_unsaved_changes_title": {
+    "description": "",
+    "message": "Figyelmeztetés, ha nincs mentve"
+  },
+  "pref_category_sync": {
+    "description": "",
+    "message": "Google Drive szinkronizálás"
+  },
+  "undo": {
+    "description": "",
+    "message": "\"Visszavonás\""
+  },
+  "integ_help_header_3": {
+    "description": "",
+    "message": "Importált állomány mellőzve"
+  },
+  "import_photos_complete_notification_message_ignored_plural": {
+    "description": "",
+    "message": "$1 kép mellőzve"
+  },
+  "integ_help_header_2": {
+    "description": "",
+    "message": "Google Maps kedvencek importálása"
+  },
+  "places_title": {
+    "description": "",
+    "message": "Helyek"
+  },
+  "ignore": {
+    "description": "",
+    "message": "Mellőz"
+  },
+  "pref_sync_now_summary_google_error": {
+    "description": "",
+    "message": "Csatlakozás a Google szerveréhez sikertelen, próbáld újra késöbb"
+  },
+  "linked_places_filter_text": {
+    "description": "",
+    "message": "Helyek szűrése"
+  },
+  "pref_import_multiple_photos_title": {
+    "description": "",
+    "message": "Képek rendezése"
+  },
+  "share_text": {
+    "description": "",
+    "message": "Megosztva a ScoutLog app-al"
+  },
+  "yes": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "about_email": {
+    "description": "",
+    "message": "Küldj emailt!"
+  },
+  "pref_photo_storage_title": {
+    "description": "",
+    "message": "Képek tárhelye"
+  },
+  "settings_integ_title": {
+    "description": "",
+    "message": "Beállítások: Importálás"
+  },
+  "copy_time": {
+    "description": "",
+    "message": "Idő másolása"
+  },
+  "settings_main_title": {
+    "description": "",
+    "message": "Beállítások"
+  },
+  "pref_account_summary": {
+    "description": "",
+    "message": "Belépés a Google fiókba"
+  },
+  "missing_selected_image_error": {
+    "description": "",
+    "message": "Ha egyéni jelölést szeretnél, választanod kell egy képet."
+  },
+  "empty_tags_text": {
+    "description": "",
+    "message": "Nincs egyetlen mentett címke sem."
+  },
+  "location_request_failed": {
+    "description": "",
+    "message": "Helymeghatározás sikertelen"
+  },
+  "gdrive_storage_full_message": {
+    "description": "",
+    "message": "Megtelt a Google Drive tárhelyed, így a ScoutLog nem képes szinkronizálni az adatokat.<br><br>Kérlek szabadíts fel helyet, mielőtt újra próbálkozol."
+  },
+  "add_tag_from_search": {
+    "description": "",
+    "message": "\"$1\" címke hozzáadása"
+  },
+  "waiting_for_location": {
+    "description": "",
+    "message": "Várakozás GPS koordinátákra..."
+  },
+  "photo_deleted_snackbar": {
+    "description": "",
+    "message": "Kép törölve"
+  },
+  "custom_icon_not_found_error_sync": {
+    "description": "",
+    "message": "Ha a kép szinkronizálva volt a Google Drive-al, letöltheted, ha újra szinkronizálsz."
+  },
+  "switch_display_mode_suggestion_message": {
+    "description": "",
+    "message": "A legtöbb helyhez nem adtál fotót. Érdemes lenne átváltani másik nézet módra."
+  },
+  "browse_by_tags_title": {
+    "description": "",
+    "message": "Böngészés címkék szerint"
+  },
+  "places_deleted_snackbar_singular": {
+    "description": "",
+    "message": "$1 hely törölve"
+  },
+  "sticky_current_location_help_screen_3": {
+    "description": "",
+    "message": "Ha ez a funkció hosszú ideig be van kapcsolva, nagy mértékben meríti az akkumulátort."
+  },
+  "skip_back_audio_recording": {
+    "description": "",
+    "message": "Tekerés vissza"
+  },
+  "select": {
+    "description": "",
+    "message": "Kiválaszt"
+  },
+  "audio_recordings_title": {
+    "description": "",
+    "message": "Hangfelvételek"
+  },
+  "open_sync_settings": {
+    "description": "",
+    "message": "Szinkronizálás beállítása"
+  },
+  "audio_recording_deleted_snackbar": {
+    "description": "",
+    "message": "Hangfelvétel törölve"
+  },
+  "menu_sort_most_places": {
+    "description": "",
+    "message": "Több címkézett hely"
+  },
+  "tag_deleted_snackbar": {
+    "description": "",
+    "message": "Címke törölve"
+  },
+  "review_app_action": {
+    "description": "",
+    "message": "Értékelés"
+  },
+  "dialog_color_picker_title": {
+    "description": "",
+    "message": "Válassz színt"
+  },
+  "menu_sort_fewest_places": {
+    "description": "",
+    "message": "Kevesebb címkézett hely"
+  },
+  "pref_show_map_markers_list_summary": {
+    "description": "",
+    "message": "Ha egy hely első címkéjéhez egyéni jelölés tartozik, mutassa a lista nézetben"
+  },
+  "pref_reporting_summary": {
+    "description": "",
+    "message": "Segíts a ScoutLog tökéletesítésében, névtelen adatok küldésével"
+  },
+  "open_drawer": {
+    "description": "",
+    "message": "Menüsáv megnyitása"
+  },
+  "unlock_app_extension": {
+    "description": "",
+    "message": "Kérek még 5 helyet"
+  },
+  "new_place": {
+    "description": "",
+    "message": "Új hely"
+  },
+  "file_create_error_title": {
+    "description": "",
+    "message": "Fájlok létrehozása sikertelen"
+  },
+  "photos_not_loaded_message": {
+    "description": "",
+    "message": "Egy, vagy több kép nem tölthető be."
+  },
+  "account_not_found_message": {
+    "description": "",
+    "message": "Google Drive fiókod nem található, szinkronizálás kikapcsolva."
+  },
+  "menu_export_csv": {
+    "description": "",
+    "message": "CSV exportálása"
+  },
+  "sticky_current_location_help_screen_1": {
+    "description": "",
+    "message": "Bekapcsoltad a \"Pozíció követése\" módot!<br><br>"
+  },
+  "sticky_current_location_help_screen_2": {
+    "description": "",
+    "message": "Kikapcsolhatod, ha megnyomod a jelenlegi pozíció gombot, vagy elmozdítod a térképet."
+  },
+  "add_after_tags_hint_text": {
+    "description": "",
+    "message": "Címke beszúrása meglévő után"
+  },
+  "pref_ignore_imported_duplicates_title": {
+    "description": "",
+    "message": "Duplikációk mellőzése"
+  },
+  "menu_delete_places": {
+    "description": "",
+    "message": "Törlés"
+  },
+  "empty_places_search_text": {
+    "description": "",
+    "message": "A keresési feltételek alapján nem találhatóak helyek."
+  },
+  "menu_select_all": {
+    "description": "",
+    "message": "Mindet kijelöli"
+  },
+  "dismiss": {
+    "description": "",
+    "message": "Elutasít"
+  },
+  "no_photo_for_sharing": {
+    "description": "",
+    "message": "A megosztani kívánt kép nem elérhető"
+  },
+  "no_camera_found_message": {
+    "description": "",
+    "message": "Nem található kamera ezen az eszközön"
+  },
+  "copy_coordinates": {
+    "description": "",
+    "message": "Koordináták másolása"
+  },
+  "import_failed_locations_count_message": {
+    "description": "",
+    "message": "Hiba történt, $1 / $2 importálva"
+  },
+  "pref_reporting_title": {
+    "description": "",
+    "message": "ScoutLog tökéletesítése"
+  },
+  "export_share_intent_title": {
+    "description": "",
+    "message": "Fájl megosztása"
+  },
+  "auto_sync_dialog_message": {
+    "description": "",
+    "message": "A rendszer szintű automatikus szinkronizálásnak be kell lennie kapcsolva. Ez azt jelenti, hogy nem csak a ScoutLog, de a többi appod is szinkronizálásra kerül."
+  },
+  "include_csv_header": {
+    "description": "",
+    "message": "CSV fejléccel együtt"
+  },
+  "location_request_for_places_failed_message": {
+    "description": "",
+    "message": "A jelenlegi pozíció frissítése sikertelen, így nem lehetséges a legközelebbi helyek sorrendbe állítása."
+  },
+  "gdrive_storage_full_title": {
+    "description": "",
+    "message": "Megtelt a Drive tárhelyed"
+  },
+  "review_app_message": {
+    "description": "",
+    "message": "Tetszik a ScoutLog? Kérlek értékeld a Play Store-ban!"
+  },
+  "pref_enable_linked_places_summary": {
+    "description": "",
+    "message": "Lehetővé teszi a helyek összekapcsolását. Ha engedélyezve van, egy új panel jelenik meg a helyeknél"
+  },
+  "browse": {
+    "description": "",
+    "message": "Válassz"
+  },
+  "details_tab_title": {
+    "description": "",
+    "message": "Részletek"
+  },
+  "import_photos_notification_title": {
+    "description": "",
+    "message": "Képek importálása"
+  },
+  "open_settings": {
+    "description": "",
+    "message": "Beállítások"
+  },
+  "address_help_text": {
+    "description": "",
+    "message": "Amikor létrehozol egy úgy helyet a földrajzi helyzet meghatározása nélkül, a jelenlegi pozíciód kerül mentésre. Ezt módosíthatod, ha megérinted ezt a panelt."
+  },
+  "pref_ignore_imported_duplicates_summary": {
+    "description": "",
+    "message": "Azok az importált tételek, melyeknek GPS koordinátái megegyeznek egy meglévő helyével, mellőzve lesznek"
+  },
+  "display_mode": {
+    "description": "",
+    "message": "Nézet:"
+  },
+  "new_place_desc": {
+    "description": "",
+    "message": "$1<br><br>Érintsd meg új hely lérehozásához."
+  },
+  "remove_tags_hint_text": {
+    "description": "",
+    "message": "Eltávolítandó címkék"
+  },
+  "save": {
+    "description": "",
+    "message": "Mentés"
+  },
+  "latitude_title": {
+    "description": "",
+    "message": "Szélesség"
+  },
+  "pref_show_dates_grid_summary": {
+    "description": "",
+    "message": "Dátum mutatásan minden helynél rács nézetben"
+  },
+  "settings_advanced_category": {
+    "description": "",
+    "message": "Haladó"
+  },
+  "add_place_widget": {
+    "description": "",
+    "message": "Hely hozzáadása"
+  },
+  "pref_list_view_photos": {
+    "description": "",
+    "message": "Képek mutatása lista nézetben"
+  },
+  "no_recording_set": {
+    "description": "",
+    "message": "Nincs hangfelvétel"
+  },
+  "select_folder_title": {
+    "description": "",
+    "message": "Válassz mappát"
+  },
+  "error_place_not_found": {
+    "description": "",
+    "message": "Ez a hely nem található; talán törölve lett."
+  },
+  "menu_sort_reverse_alpha": {
+    "description": "",
+    "message": "Z - A"
+  },
+  "pick_date": {
+    "description": "",
+    "message": "Adj dátumot a helyhez"
+  },
+  "photos_tab_title": {
+    "description": "",
+    "message": "Képek"
+  },
+  "pref_show_closest_address_summary": {
+    "description": "",
+    "message": "Amikor egy helynél csak GPS koordináták érhetőek el, a legközelebbi címet mutatja."
+  },
+  "select_tags_help_screen_2": {
+    "description": "",
+    "message": "Ha van színük, a térkép jelölésének színe meg fog egyezni az első címke színével."
+  },
+  "select_tags_help_screen_1": {
+    "description": "",
+    "message": "Egy hely több címkét is tartalmazhat, és minden címkének lehet saját színe"
+  },
+  "pref_show_dates_title": {
+    "description": "",
+    "message": "Dátum mutatása"
+  },
+  "location_services_disabled_title": {
+    "description": "",
+    "message": "A helymeghatározás szolgáltatás le van tiltva"
+  },
+  "menu_sort_alpha": {
+    "description": "",
+    "message": "A - Z"
+  },
+  "appx_address_title": {
+    "description": "",
+    "message": "Legközelebbi cím"
+  },
+  "pref_show_closest_address_title": {
+    "description": "",
+    "message": "A legközelebbi cím mutatása"
+  },
+  "pref_category_integ": {
+    "description": "",
+    "message": "Importálás"
+  },
+  "places": {
+    "description": "",
+    "message": "Helyek"
+  },
+  "info_set_from_photo": {
+    "description": "",
+    "message": "Információ mentve a fotóból"
+  },
+  "import_photos_complete_notification_message_ignored_singular": {
+    "description": "",
+    "message": "$1 kép mellőzve"
+  },
+  "add_tag": {
+    "description": "",
+    "message": "Címke hozzáadása"
+  },
+  "pref_category_behavior": {
+    "description": "",
+    "message": "Viselkedés"
+  },
+  "import_failed_title": {
+    "description": "",
+    "message": "Importálási hiba"
+  },
+  "import_data_not_recognized": {
+    "description": "",
+    "message": "A megosztott adatokat a ScoutLog nem ismeri fel"
+  },
+  "import_complete_notification_message_ignored": {
+    "description": "",
+    "message": "$1 mellőzve"
+  },
+  "place_created": {
+    "description": "",
+    "message": "Új hely létrehozva"
+  },
+  "delete_place": {
+    "description": "",
+    "message": "Törlés"
+  },
+  "unlock_app_places_10_message": {
+    "description": "",
+    "message": "Az ingyenes verzióval csak limitált számú helyet hozhatsz létre.<br><br>Ha teljes hozzáférést szeretnél a program összes funkciójához, kérlek vásárold meg a teljes verziót."
+  },
+  "copied": {
+    "description": "",
+    "message": "Vágólapra másolva"
+  },
+  "settings_list_category": {
+    "description": "",
+    "message": "Lista"
+  },
+  "vote_for_new_features": {
+    "description": "",
+    "message": "Szavazz új funkcióra"
+  },
+  "auto_sync_dialog_title": {
+    "description": "",
+    "message": "Bekapcsolod az auto-szinkronizálást?"
+  },
+  "pref_auto_sync_title": {
+    "description": "",
+    "message": "Autómatikus szinkronizálás"
+  },
+  "settings_display_title": {
+    "description": "",
+    "message": "Beállítások: Megjelenítés"
+  },
+  "import_notification_title": {
+    "description": "",
+    "message": "Helyek importálása"
+  },
+  "copied_address": {
+    "description": "",
+    "message": "Másolt cím"
+  },
+  "copy_date": {
+    "description": "",
+    "message": "Dátum másolása"
+  },
+  "bulk_edit_tags_help_screen_3": {
+    "description": "",
+    "message": "A meglévő címkéket törölheted, ha megváltoztatod a szerkesztési módot a felső eszköztárban."
+  },
+  "pref_about_title": {
+    "description": "",
+    "message": "Névjegy"
+  },
+  "longitude_title": {
+    "description": "",
+    "message": "Hosszúság"
+  },
+  "pref_enable_dates_title": {
+    "description": "",
+    "message": "Dátumok engedélyezése"
+  },
+  "photo_not_loaded_title": {
+    "description": "",
+    "message": "Kép betöltése sikertelen"
+  },
+  "error_unknown": {
+    "description": "",
+    "message": "A ScoutLog hibát észlelt szinkronizálás közben."
+  },
+  "moving_photos_message": {
+    "description": "",
+    "message": "Képek áthelyezése"
+  },
+  "turn_on_auto_sync": {
+    "description": "",
+    "message": "Bekapcsol"
+  },
+  "notify_unsaved_changes_dialog_title": {
+    "description": "",
+    "message": "Elveted a nem mentett módosításokat?"
+  },
+  "custom_icon_not_found_error": {
+    "description": "",
+    "message": "A kiválasztott kép nem található az eszközön; talán át lett nevezve, vagy törölve."
+  },
+  "pref_enable_linked_places_title": {
+    "description": "",
+    "message": "Helyek összekapcsolásának engedélyezése"
+  },
+  "menu_sort_closest": {
+    "description": "",
+    "message": "Legközelebbi"
+  },
+  "always": {
+    "description": "",
+    "message": "Mindig"
+  },
+  "settings": {
+    "description": "",
+    "message": "Beállítások"
+  },
+  "add_place": {
+    "description": "",
+    "message": "Új hely hozzáadása"
+  },
+  "play_pause_audio_recording": {
+    "description": "",
+    "message": "Hangfelvétel lejátszása / szüneteltetése"
+  },
+  "sync_help_text_2b": {
+    "description": "",
+    "message": "Ha a szinkronizálás sűrűn kudarcba fullad, küldj nekem (a ScoutLog fejlesztője) egy email-t. Az email tartalmazni fogja névtelenül azokat a szinkronizálással kapcsolatos információkat, amik segítségemre lehetnek a probléma felderítésében és kijavításában."
+  },
+  "pref_notify_unsaved_changes_summary": {
+    "description": "",
+    "message": "Figyelmeztet, mielőtt elvesznének a nem mentett módosítások"
+  },
+  "integ_help_text_2": {
+    "description": "",
+    "message": "Google Maps kedvencek importálásahoz nyisd meg $1 a böngészőben, és kattints a \"Kedvencek exportálása\" linkre. Az így kapott fájlt küldd a ScoutLog app-nak. Ezt az oldalt nem igazán feljesztették mobil eszközökre, így könnyebb, ha számítógépről nyitod meg."
+  },
+  "integ_help_text_3": {
+    "description": "",
+    "message": "Lehetséges, hogy néhány adat nem kerül importálásra. Ennek különböző okai lehetnek:<br><br>1. Ilyen bejegyzés már létezik, és a \"Duplikációk mellőzése\" opció be van kapcsolva.<br><br>2. Túllépted az importálható helyek határát, és még nem vásároltad meg a teljes verziót.<br><br>3. Néhány adatot le kell tölteni mielött a fájl importálásra kerül, és hiba történt az adatok letöltése közben."
+  },
+  "select_tags_hint_text": {
+    "description": "",
+    "message": "Válassz címkéket ehhez a helyhez"
+  },
+  "got_it": {
+    "description": "",
+    "message": "Értettem"
+  },
+  "set_title": {
+    "description": "",
+    "message": "Név hozzáadása"
+  },
+  "empty_filtered_tags_text": {
+    "description": "",
+    "message": "Nincs egyetlen címke sem, ami megfelelne a keresési feltételeknek."
+  },
+  "sync_help_text_2a": {
+    "description": "",
+    "message": "Ha a szinkronizálásnál hiányosságot tapasztalsz, az azt jelentheti, hogy probléma van a metaadatokkal. Hogy maximalizálja a hatékonyságot, ScoutLog eltárolja a metaadatokat, hogy nyomon kövesse, mely adatok változtak meg a legutóbbi szinkronizálás óta. Használd az alábbi gombot a metaadatok törléséhez, és a teljes szinkronizálás végrehajtásához."
+  },
+  "place_deleted": {
+    "description": "",
+    "message": "Hely törölve"
+  },
+  "bulk_edit_tags_help_screen_2": {
+    "description": "",
+    "message": "Új címkét is adhatsz a helyekhez, a meglévő címke elé, vagy után."
+  },
+  "bulk_edit_tags_help_screen_1": {
+    "description": "",
+    "message": "Minden egyes kijelölt hely több címkével rendelkezhet. Ezek a címkék sorrendbe vannak rendezve."
+  },
+  "no_email_apps": {
+    "description": "",
+    "message": "Nincs email kliens telepítve"
+  },
+  "custom_color": {
+    "description": "",
+    "message": "Egyéni"
+  },
+  "settings_grid_category": {
+    "description": "",
+    "message": "Rács"
+  },
+  "integ_help_text_1": {
+    "description": "",
+    "message": "Küldj fájlt a ScoutLog-nak, hogy importálhassa azt. Támogatott formátumok: GPX, Google könyvjelző és képformátumok. Ha nem sikerül az importálás, vagy szeretnél egy jelenleg nem támogatott formátumot importálni, küldj nekem (a fejlesztőnek) emailt."
+  },
+  "pref_sticky_current_location_summary": {
+    "description": "",
+    "message": "Bekapcsolt állapotban a térkép közepe mindíg az aktuális poziciód lesz, akkor is, ha mozgásban vagy."
+  },
+  "photo_notes": {
+    "description": "",
+    "message": "Jegyzet hozzáadása"
+  },
+  "pref_sync_now_title": {
+    "description": "",
+    "message": "Szinkronizálás most"
+  },
+  "no": {
+    "description": "",
+    "message": "\"Mégse\""
+  },
+  "share_photo": {
+    "description": "",
+    "message": "Kép megosztása"
+  },
+  "pref_account_title": {
+    "description": "",
+    "message": "Fiók"
+  },
+  "edit_note": {
+    "description": "",
+    "message": "Jegyzet szerkesztése"
+  },
+  "import_complete_notification_message_failed": {
+    "description": "",
+    "message": "$1 sikertelen"
+  },
+  "long_wait_message": {
+    "description": "",
+    "message": "A szinkronizálás akár percekig is tarthat..."
+  },
+  "add_before_tags_hint_text": {
+    "description": "",
+    "message": "Címke beszúrása meglévő elé"
+  },
+  "unlock_app_title": {
+    "description": "",
+    "message": "További funkciók feloldása"
+  },
+  "create_app_folder": {
+    "description": "",
+    "message": "ScoutLog mappa létrehozása ide"
+  },
+  "add_after": {
+    "description": "",
+    "message": "Beszúrás utána"
+  },
+  "pref_unlock_title": {
+    "description": "",
+    "message": "ScoutLog teljes verzió"
+  },
+  "set_location_and_date_from_photo": {
+    "description": "",
+    "message": "Ez a kép tartalmaz GPS koordinátákat, biztos ehhez a helyhez mentsem?"
+  },
+  "pref_sticky_current_location_title": {
+    "description": "",
+    "message": "Pozíció követése"
+  },
+  "show_help": {
+    "description": "",
+    "message": "Súgó mutatása"
+  },
+  "no_google_play_services_title": {
+    "description": "",
+    "message": "Nem található a 'Google Play-szolgáltatások'"
+  },
+  "num_places_tagged_text_singular": {
+    "description": "",
+    "message": "$1 hely"
+  },
+  "camera_file_not_created_message": {
+    "description": "",
+    "message": "Hiba történt a kamera megnyitása közben. Készíts képet külön, majd add hozzá a galériából!"
+  },
+  "delete": {
+    "description": "",
+    "message": "\"Törlés\""
+  },
+  "error_401": {
+    "description": "",
+    "message": "Hogy a ScoutLog megfelelően máködjön engedélyre van szüksége, hogy hozzáférjen a Google Drive-hoz."
+  },
+  "move_photos_title": {
+    "description": "",
+    "message": "Képek áthelyezése"
+  },
+  "import_failed": {
+    "description": "",
+    "message": "Importálás sikertelen"
+  },
+  "menu_export_kml": {
+    "description": "",
+    "message": "KML exportálása"
+  },
+  "ok": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "pref_show_distances_grid_summary": {
+    "description": "",
+    "message": "Távolság mutatása a helyektől rács nézetben"
+  },
+  "improve_location_accuracy_gps_message": {
+    "description": "",
+    "message": "Pontosíthatsz a jelenlegi pozíciódon, ha bekapcsolod a GPS-t."
+  },
+  "camera_file_not_created_title": {
+    "description": "",
+    "message": "Kamera hiba"
+  },
+  "most_accurate_location_set": {
+    "description": "",
+    "message": "Legpontosabb pozíció meghatározva"
+  },
+  "coordinates_title": {
+    "description": "",
+    "message": "Koordináták"
+  },
+  "integ_email_button": {
+    "description": "",
+    "message": "Email a fejlesztőnek"
+  },
+  "pref_unlock_summary": {
+    "description": "",
+    "message": "Vásárold meg a ScoutLog teljes verzióját"
+  },
+  "show_menu": {
+    "description": "",
+    "message": "Menü mutatása"
+  },
+  "integ_help_title": {
+    "description": "",
+    "message": "Importálás Súgó"
+  },
+  "import_photos_notification_message_singular": {
+    "description": "",
+    "message": "$1 kép importálása"
+  },
+  "about_concerns": {
+    "description": "",
+    "message": "Kérdésed, javaslatod van?"
+  },
+  "untagged_places": {
+    "description": "",
+    "message": "(Címke nélkül)"
+  },
+  "edit_title": {
+    "description": "",
+    "message": "Név szerkesztése"
+  },
+  "add_photo_camera": {
+    "description": "",
+    "message": "Fotó készítése a kamerával"
+  },
+  "add_photo_gallery": {
+    "description": "",
+    "message": "Fotó hozzáadása a galériából"
+  },
+  "no_camera_found_title": {
+    "description": "",
+    "message": "Nem található kamera"
+  },
+  "settings_sync_title": {
+    "description": "",
+    "message": "Beállítások: Szinkronizálás"
+  },
+  "import_failed_message": {
+    "description": "",
+    "message": "Hiba történt importálás közben"
+  },
+  "location_services_disabled_message": {
+    "description": "",
+    "message": "A helymeghatározás szolgáltatásnak be kell lennie kapcsolva, hogy megtudjuk a jelenlegi pozíciót."
+  },
+  "pref_show_map_markers_grid_summary": {
+    "description": "",
+    "message": "Ha egy hely első címkéjéhez egyéni jelölés tartozik, mutassa a rács nézetben"
+  },
+  "navigate_up_folder": {
+    "description": "",
+    "message": "Ugrás a szülőmappába"
+  }
+}

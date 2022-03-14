@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  
+  <title i18n-content="app_name"></title>
+  
+  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <link type="text/css" rel="stylesheet" href="third-party-css/materialize.css" media="screen,projection" />
+	<link type="text/css" rel="stylesheet" href="css/main.css" media="screen,projection" />
+  <link type="text/css" rel="stylesheet" href="css/dark_theme.css" media="screen,projection" />
+  
+	<script type="text/javascript" src="third-party-js/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="third-party-js/materialize.js"></script>
+  <script type="text/javascript" src="third-party-js/linkify.min.js"></script>
+  <script type="text/javascript" src="third-party-js/linkify-jquery.min.js"></script>
+  <script type="text/javascript" src="third-party-js/Blob.js"></script>
+  <script type="text/javascript" src="third-party-js/FileSaver.min.js"></script>
+  <script type="text/javascript" src="third-party-js/xlsx.core.min.js"></script>
+
+  <script type="text/javascript" src="js/util.js"></script>
+  <script type="text/javascript" src="js/ga_util.js"></script>
+  <script type="text/javascript" src="js/lat_lng_parser.js"></script>
+  <script type="text/javascript" src="js/toast.js"></script>
+  <script type="text/javascript" src="js/model.js"></script>
+  <script type="text/javascript" src="js/error_panel.js"></script>
+  <script type="text/javascript" src="js/drive.js"></script>
+  <script type="text/javascript" src="js/edit_dialog.js"></script>
+  <script type="text/javascript" src="js/upload_dialog.js"></script>
+  <script type="text/javascript" src="js/export_dialog.js"></script>
+  <script type="text/javascript" src="js/grid_screen.js"></script>
+  <script type="text/javascript" src="js/map_list_screen.js"></script>
+  <script type="text/javascript" src="js/detail_screen.js"></script>
+  <script type="text/javascript" src="js/map_detail_screen.js"></script>
+  <script type="text/javascript" src="js/select_tags_screen.js"></script>
+  <script type="text/javascript" src="js/browse_by_tags_screen.js"></script>
+  <script type="text/javascript" src="js/settings_screen.js"></script>
+  <script type="text/javascript" src="js/export_tabular_screen.js"></script>
+  <script type="text/javascript" src="js/nav_util.js"></script>
+  <script type="text/javascript" src="js/action_bar_util.js"></script>
+  <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+  <header>
+    <div class="navbar-fixed">
+      <nav>
+        <div class="nav-wrapper container">
+          <ul id="side-nav" class="side-nav">
+            <li class="nav-display-mode-text" i18n-content="display_mode"></li>
+            <li id="nav-display-mode-map" class="nav-display-mode">
+              <a class="material-icons nav-display-mode-icon">map</a>
+            </li>
+            <li id="nav-display-mode-grid" class="nav-display-mode">
+              <a class="material-icons nav-display-mode-icon">view_module</a>
+            </li>
+            <li class="divider" style="clear: both"></li>
+            <li>
+              <a id="nav-places">
+                <i class="material-icons nav-item-icon">location_on</i>
+                <div class="valign nav-item">
+                  <div class="left nav-item-text" i18n-content="places"></div>
+                  <div id="nav-places-count" class="right nav-item-count" style="display: none"></div>
+                  <div style="clear: both"></div>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a id="nav-tags">
+                <i class="material-icons nav-item-icon">local_offer</i>
+                <div class="valign nav-item">
+                  <div class="left nav-item-text" i18n-content="browse_by_tags"></div>
+                  <div id="nav-tags-count" class="right nav-item-count" style="display: none"></div>
+                  <div style="clear: both"></div>
+                </div>
+              </a>
+            </li>
+            <li class="divider"></li>
+            <li>
+              <a id="nav-settings">
+                <i class="material-icons nav-item-icon">settings</i>
+                <div class="valign nav-item" i18n-content="settings"></div>
+              </a>
+            </li>
+
+            <!-- These items are displayed at the bottom of the nav drawer so they don't distract the user. -->
+            <li id="nav-features-list-item" class="nav-unimportant">
+              <a id="nav-features" href="https://docs.google.com/forms/d/e/1FAIpQLSfaWDL_fjNHfhJx7hd7Tu9YDiA2VAaMHkUrDCa_MALzcrrynw/viewform" target="_blank" rel="noopener">
+                <i class="material-icons nav-item-icon">question_answer</i>
+                <div class="valign nav-item" i18n-content="vote_for_new_features"></div>
+              </a>
+            </li>
+            <li id="nav-translate-list-item" class="nav-unimportant">
+              <a id="nav-translate" href="mailto:scoutlogapp@gmail.com?Subject=Translate%20ScoutLog&body=I%20would%20like%20to%20help%20translate%20ScoutLog.%20I%27m%20familiar%20with%20these%20languages%3A%20" target="_blank" rel="noopener">
+                <i class="material-icons nav-item-icon">translate</i>
+                <div class="valign nav-item" i18n-content="pref_help_translate_title"></div>
+              </a>
+            </li>
+            <li id="nav-contact-list-item" class="nav-unimportant">
+              <a id="nav-contact" href="mailto:scoutlogapp@gmail.com" target="_blank" rel="noopener">
+                <i class="material-icons nav-item-icon">email</i>
+                <div class="valign nav-item" i18n-content="help_and_feedback"></div>
+              </a>
+            </li>
+          </ul>
+          <a id="nav-icon" data-activates="side-nav" class="waves-effect waves-light btn-flat"></a>
+          <span id="screen-title" class="brand-logo"></span>
+          <ul id="action-bar-actions" class="right">
+            <!--
+            <li><a id="menu-refresh" href="javascript:;"><i class="material-icons">refresh</i></a></li>
+            <li><a id="menu-overflow" href="javascript:;" class="dropdown-button" data-activates="menu-overflow-dropdown"><i class="material-icons">more_vert</i></a></li>
+            -->
+          </ul>
+          <!--
+          <ul id="menu-overflow-dropdown" class="dropdown-content">
+            <li><a id="menu-settings" href="javascript:;" i18n-content="settings"></a></li>
+          </ul>
+          -->
+        </div>
+      </nav>
+    </div>
+  </header>
+  
+  <main>
+    <div id="content"></div>
+    
+    <div class="row">
+      <div id="main-loading-icon" class="col s12 center"></div>
+      <div id="long-wait-message" class="col s12 center" i18n-content="long_wait_message" style="display: none"></div>
+    </div>
+
+    <div id="main-error-panel"></div>
+  </main>
+  
+  <footer class="page-footer">
+    <div class="container">
+      <div id="left-footer" class="valign-wrapper">
+        <div class="valign">
+          <div id="app-version"></div>
+          <div id="open-source-desc">This is free and <a href="https://bitbucket.org/sndurkin/scoutlog-chrome" target="_blank">open source</a> software.</div>
+        </div>
+      </div>
+      <div id="right-footer" class="valign-wrapper"></div>
+      <div style="clear: both"></div>
+    </div>
+  </footer>
+  
+</body>
+</html>

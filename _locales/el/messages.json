@@ -1,0 +1,266 @@
+{
+  "import_loading_files": {
+    "description": "",
+    "message": "Φόρτωμα αρχείων..."
+  },
+  "cancel": {
+    "description": "",
+    "message": "\"Ακύρωση\""
+  },
+  "menu_sort": {
+    "description": "",
+    "message": "Ταξινόμηση"
+  },
+  "delete_place": {
+    "description": "",
+    "message": "Διαγραφή"
+  },
+  "notes": {
+    "description": "",
+    "message": "Εισαγωγή σημείωσης"
+  },
+  "select": {
+    "description": "",
+    "message": "Επιλογή"
+  },
+  "auto_sync_dialog_title": {
+    "description": "",
+    "message": "Ενεργοποίηση αυτόματου συγχρονισμού;"
+  },
+  "open_sync_settings": {
+    "description": "",
+    "message": "Άνοιγμα ρυθμίσεων συγχρονισμού"
+  },
+  "pref_auto_sync_title": {
+    "description": "",
+    "message": "Αυτόματος συγχρονισμός"
+  },
+  "unlock_app_no": {
+    "description": "",
+    "message": "Ακύρωση"
+  },
+  "settings_display_title": {
+    "description": "",
+    "message": "Ρυθμίσεις: Απεικόνιση"
+  },
+  "review_app_action": {
+    "description": "",
+    "message": "Αξιολόγηση"
+  },
+  "dialog_color_picker_title": {
+    "description": "",
+    "message": "Επιλογή χρώματος"
+  },
+  "menu_sort_newest": {
+    "description": "",
+    "message": "Νεότερο"
+  },
+  "copy_date": {
+    "description": "",
+    "message": "Αντιγραφή ημερομηνίας"
+  },
+  "copy_current_datetime": {
+    "description": "",
+    "message": "Αντιγραφή τρέχουσας ημερομηνίας"
+  },
+  "address_title": {
+    "description": "",
+    "message": "Διεύθυνση"
+  },
+  "sync_help_header_2": {
+    "description": "",
+    "message": "Επίλυση προβλημάτων"
+  },
+  "turn_on_auto_sync": {
+    "description": "",
+    "message": "Ενεργοποίηση"
+  },
+  "menu_sort_closest": {
+    "description": "",
+    "message": "Κοντινότερο"
+  },
+  "settings": {
+    "description": "",
+    "message": "Ρυθμίσεις"
+  },
+  "untitled": {
+    "description": "",
+    "message": "(Χωρίς τίτλο)"
+  },
+  "menu_delete_places": {
+    "description": "",
+    "message": "Διαγραφή"
+  },
+  "menu_select_all": {
+    "description": "",
+    "message": "Επιλογή όλων"
+  },
+  "send_email": {
+    "description": "",
+    "message": "Αποστολή email"
+  },
+  "set_title": {
+    "description": "",
+    "message": "Ορισμός τίτλου"
+  },
+  "use_default": {
+    "description": "",
+    "message": "Επιλογή προεπιλεγμένου"
+  },
+  "delete_tag": {
+    "description": "",
+    "message": "Διαγραφή"
+  },
+  "menu_sort_oldest": {
+    "description": "",
+    "message": "Παλαιότερο"
+  },
+  "pref_measurement": {
+    "description": "",
+    "message": "Μονάδα μέτρησης απόστασης"
+  },
+  "details_tab_title": {
+    "description": "",
+    "message": "Λεπτομέρειες"
+  },
+  "copy_datetime": {
+    "description": "",
+    "message": "Αντιγραφή ημερομηνίας και ώρας"
+  },
+  "next": {
+    "description": "",
+    "message": "Επόμενο"
+  },
+  "import_photos_notification_title": {
+    "description": "",
+    "message": "Εισαγωγή φωτογραφιών"
+  },
+  "no": {
+    "description": "",
+    "message": "\"Ακύρωση\""
+  },
+  "edit_note": {
+    "description": "",
+    "message": "Επεξεργασία σημείωσης"
+  },
+  "unlock_app_yes": {
+    "description": "",
+    "message": "Ξεκλείδωμα εφαρμογής"
+  },
+  "linked_places_edit": {
+    "description": "",
+    "message": "Επεξεργασία"
+  },
+  "title": {
+    "description": "",
+    "message": "Τίτλος"
+  },
+  "delete": {
+    "description": "",
+    "message": "\"Διαγραφή\""
+  },
+  "search": {
+    "description": "",
+    "message": "Αναζήτηση"
+  },
+  "undo": {
+    "description": "",
+    "message": "\"Αναίρεση\""
+  },
+  "no_thanks": {
+    "description": "",
+    "message": "Όχι, ευχαριστώ"
+  },
+  "copy_address": {
+    "description": "",
+    "message": "Αντιγραφή Διεύθυνσης"
+  },
+  "menu_sort_reverse_alpha": {
+    "description": "",
+    "message": "Ω - Α"
+  },
+  "photos_tab_title": {
+    "description": "",
+    "message": "Φωτογραφίες"
+  },
+  "ok": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "close": {
+    "description": "",
+    "message": "Κλείσιμο"
+  },
+  "coordinates_title": {
+    "description": "",
+    "message": "Συντεταγμένες"
+  },
+  "yes": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "about_email": {
+    "description": "",
+    "message": "Στείλε μου email!"
+  },
+  "edit_tag": {
+    "description": "",
+    "message": "Αλλαγή ονόματος"
+  },
+  "integ_email_button": {
+    "description": "",
+    "message": "Αποστολή email"
+  },
+  "settings_integ_title": {
+    "description": "",
+    "message": "Ρυθμίσεις: Εισαγωγή"
+  },
+  "copy_time": {
+    "description": "",
+    "message": "Αντιγραφή ώρας"
+  },
+  "settings_main_title": {
+    "description": "",
+    "message": "Ρυθμίσεις"
+  },
+  "pref_account_summary": {
+    "description": "",
+    "message": "Σύνδεση στον λογαριασμό Google"
+  },
+  "menu_sort_alpha": {
+    "description": "",
+    "message": "Α - Ω"
+  },
+  "appx_address_title": {
+    "description": "",
+    "message": "Κοντινότερη διεύθυνση"
+  },
+  "edit_title": {
+    "description": "",
+    "message": "Επεξεργασία τίτλου"
+  },
+  "pref_theme": {
+    "description": "",
+    "message": "Θέμα"
+  },
+  "delete_photo": {
+    "description": "",
+    "message": "Διαγραφή φωτογραφίας"
+  },
+  "pref_category_integ": {
+    "description": "",
+    "message": "Εισαγωγή"
+  },
+  "app_name": {
+    "description": "",
+    "message": "ScoutLog"
+  },
+  "default_color": {
+    "description": "",
+    "message": "Προεπιλεγμένο"
+  },
+  "settings_sync_title": {
+    "description": "",
+    "message": "Ρυθμίσεις: Συγχρονισμός"
+  }
+}

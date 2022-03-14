@@ -1,0 +1,1278 @@
+{
+  "cancel": {
+    "description": "",
+    "message": "\"Annulla\""
+  },
+  "pref_help_translate_title": {
+    "description": "",
+    "message": "Aiuta nella traduzione"
+  },
+  "import_warning_title": {
+    "description": "",
+    "message": "Avviso importazione"
+  },
+  "account_not_found_title": {
+    "description": "",
+    "message": "Account Google non trovato"
+  },
+  "upload": {
+    "description": "",
+    "message": "Upload"
+  },
+  "import_warning_message": {
+    "description": "",
+    "message": "Puoi importare fino a 15 luoghi nella versione gratuita di questa app. Dopodichè, è necessario acquistare la app di sblocco.<br><br>Continuare l'importazione?"
+  },
+  "import_photos_complete_notification_message_imported_plural": {
+    "description": "",
+    "message": "$1 foto importate"
+  },
+  "nav_action_failed": {
+    "description": "",
+    "message": "Apertura da menu navigazione fallita"
+  },
+  "no_location_set": {
+    "description": "",
+    "message": "(Nessuna posizione impostata)"
+  },
+  "pref_auto_sync_summary": {
+    "description": "",
+    "message": "Sincronizza periodicamente con Google Drive per tenere il tuo dispositivo aggiornato"
+  },
+  "menu_sort_newest": {
+    "description": "",
+    "message": "Più recente"
+  },
+  "empty_media_text": {
+    "description": "",
+    "message": "Non hai nessun media per questo luogo"
+  },
+  "set_location_from_photo": {
+    "description": "",
+    "message": "Questa foto contiene già informazioni di latitudine/longitudine, vuoi aggiungerli a questo luogo?"
+  },
+  "copied_coordinates": {
+    "description": "",
+    "message": "Coordinate copiate"
+  },
+  "address_not_found": {
+    "description": "",
+    "message": "Non è stato possibile trovare l'indirizzo"
+  },
+  "address_title": {
+    "description": "",
+    "message": "Indirizzo"
+  },
+  "tag_edit_dialog_title": {
+    "description": "",
+    "message": "Nome dell'etichetta"
+  },
+  "sync_help_header_1": {
+    "description": "",
+    "message": "Come funziona"
+  },
+  "set_map_marker": {
+    "description": "",
+    "message": "Aggiungi segnaposto"
+  },
+  "sync_help_header_2": {
+    "description": "",
+    "message": "Risoluzione problemi"
+  },
+  "pref_sync_now_summary_error": {
+    "description": "",
+    "message": "Si è verificato un problema di sincronizzazione, si prega di riprovare più tardi"
+  },
+  "add_audio_recording": {
+    "description": "",
+    "message": "Registra Audio"
+  },
+  "pref_category_display": {
+    "description": "",
+    "message": "Schermo"
+  },
+  "pref_category_advanced": {
+    "description": "",
+    "message": "Funzionalità avanzate"
+  },
+  "navigate": {
+    "description": "",
+    "message": "Vai al navigatore"
+  },
+  "untitled": {
+    "description": "",
+    "message": "(Senza titolo)"
+  },
+  "move_photos_error_message": {
+    "description": "",
+    "message": "Errore durante lo spostamento delle foto."
+  },
+  "pref_enable_dates_summary": {
+    "description": "",
+    "message": "Abilita l'inserimento della data per un luogo"
+  },
+  "tags": {
+    "description": "",
+    "message": "Aggiungi etichette"
+  },
+  "add_before": {
+    "description": "",
+    "message": "Aggiungi prima"
+  },
+  "import_started": {
+    "description": "",
+    "message": "Importazione iniziata, controlla il pannello delle notifiche per i dettagli"
+  },
+  "about_credit": {
+    "description": "",
+    "message": "Icona dell'app a cura di $1"
+  },
+  "delete_tag": {
+    "description": "",
+    "message": "Elimina"
+  },
+  "sync_help_text_1": {
+    "description": "",
+    "message": "Seleziona un account Google e ScoutLog creerà una cartella in Google Drive per salvare i tuoi luoghi, etichette e foto. Seleziona l'opzione \"Sincronizza automaticamente\" per permettere a ScoutLog di salvare periodicamente i tuoi dati."
+  },
+  "pref_help_translate_summary": {
+    "description": "",
+    "message": "Inviami un'e-mail per aiutare a tradurre ScoutLog in altre lingue!"
+  },
+  "menu_sort_oldest": {
+    "description": "",
+    "message": "Meno recente"
+  },
+  "close_drawer": {
+    "description": "",
+    "message": "Chiudi menu laterale"
+  },
+  "menu_export_gpx": {
+    "description": "",
+    "message": "Esporta in formato GPX"
+  },
+  "pref_map_marker_color": {
+    "description": "",
+    "message": "Colore standard per il segnaposto"
+  },
+  "export_failed_message": {
+    "description": "",
+    "message": "Errore durante l'esportazione"
+  },
+  "empty_places_text": {
+    "description": "",
+    "message": "Non hai nessun luogo salvato."
+  },
+  "linked_place": {
+    "description": "",
+    "message": "Associa a un altro luogo"
+  },
+  "pref_cluster_threshold_summary": {
+    "description": "",
+    "message": "Numero di segnaposti che vengono mostrati insieme sulla mappa senza venir raggruppati<br><br>$1"
+  },
+  "notes_title": {
+    "description": "",
+    "message": "Note"
+  },
+  "linked_places_edit": {
+    "description": "",
+    "message": "Modifica"
+  },
+  "menu_edit_tags": {
+    "description": "",
+    "message": "Modifica etichette"
+  },
+  "about_licenses": {
+    "description": "",
+    "message": "Licenze open source"
+  },
+  "sync_warning_dialog_title": {
+    "description": "",
+    "message": "Impostazioni sincronizzazione"
+  },
+  "search": {
+    "description": "",
+    "message": "Cerca"
+  },
+  "no_navigation_app": {
+    "description": "",
+    "message": "Non è stato possibile trovare un'app di navigazione"
+  },
+  "no_thanks": {
+    "description": "",
+    "message": "No, grazie"
+  },
+  "copy_address": {
+    "description": "",
+    "message": "Copia indirizzo"
+  },
+  "tags_title": {
+    "description": "",
+    "message": "Seleziona etichette"
+  },
+  "close": {
+    "description": "",
+    "message": "Chiudi"
+  },
+  "settings_advanced_title": {
+    "description": "",
+    "message": "Impostazioni: Avanzate"
+  },
+  "unlock_app_places_15_message": {
+    "description": "",
+    "message": "Hai creato il numero massimo di luoghi per la versione gratuita di quest'app!<br><br>Per avere pieno accesso a tutte le funzionalità, si prega di acquistare la versione completa."
+  },
+  "try_again": {
+    "description": "",
+    "message": "Riprova"
+  },
+  "export_failed_title": {
+    "description": "",
+    "message": "Errore durante l'esportazione"
+  },
+  "bulk_edit_tags_title": {
+    "description": "",
+    "message": "Modifica etichette"
+  },
+  "add_place_widget_picker_title": {
+    "description": "",
+    "message": "Aggiungi luogo"
+  },
+  "untagged_places_title": {
+    "description": "",
+    "message": "Luoghi senza etichetta"
+  },
+  "edit_tag": {
+    "description": "",
+    "message": "Rinomina"
+  },
+  "photo_file_create_error_title": {
+    "description": "",
+    "message": "Impossibile creare foto"
+  },
+  "pref_theme": {
+    "description": "",
+    "message": "Tema"
+  },
+  "app_name": {
+    "description": "",
+    "message": "ScoutLog"
+  },
+  "delete_photo": {
+    "description": "",
+    "message": "Elimina foto"
+  },
+  "photo_not_loaded_message": {
+    "description": "",
+    "message": "La foto non può essere caricata."
+  },
+  "selected_image": {
+    "description": "",
+    "message": "Immagine selezionata"
+  },
+  "sync_warning_dialog_message": {
+    "description": "",
+    "message": "Hai aggiunto più di 15 luoghi su ScoutLog!<br><br>È raccomandato impostare la sincronizzazione per assicurarsi che i dati siano protetti."
+  },
+  "default_color": {
+    "description": "",
+    "message": "Predefinito"
+  },
+  "pref_sync_now_summary": {
+    "description": "",
+    "message": "Ultima sincronizzazione: $1"
+  },
+  "about_title": {
+    "description": "",
+    "message": "Informazioni"
+  },
+  "move_photos_message": {
+    "description": "",
+    "message": "Vuoi muovere le tue foto dalla vecchia cartella alla nuova?"
+  },
+  "settings_behavior_title": {
+    "description": "",
+    "message": "Impostazioni: Comportamento"
+  },
+  "app_desc": {
+    "description": "",
+    "message": "Crea e aggiorna luoghi importanti, e sincronizzali sui tuoi dispositivi tramite la app ScoutLog su Android."
+  },
+  "no_location_set_toast": {
+    "description": "",
+    "message": "Nessuna posizione impostata"
+  },
+  "sync_help_title": {
+    "description": "",
+    "message": "Aiuto sincronizzazione"
+  },
+  "import_photos_notification_message_plural": {
+    "description": "",
+    "message": "importo $1 foto"
+  },
+  "browse_by_tags": {
+    "description": "",
+    "message": "Esplora per etichette"
+  },
+  "email_for_help": {
+    "description": "",
+    "message": "Chiedi aiuto via email"
+  },
+  "import_loading_files": {
+    "description": "",
+    "message": "Caricamento file..."
+  },
+  "menu_sort": {
+    "description": "",
+    "message": "Ordina per"
+  },
+  "notes": {
+    "description": "",
+    "message": "Aggiungi una nota"
+  },
+  "unlock_app_no": {
+    "description": "",
+    "message": "Annulla"
+  },
+  "notify_unsaved_changes_dialog_message": {
+    "description": "",
+    "message": "Hai effettuato delle modifiche, vuoi annullarle?"
+  },
+  "places_deleted_snackbar_plural": {
+    "description": "",
+    "message": "$1 luoghi eliminati"
+  },
+  "pref_cluster_threshold_title": {
+    "description": "",
+    "message": "Soglia di raggruppamento dei segnaposti"
+  },
+  "location_request_for_places_failed_title": {
+    "description": "",
+    "message": "Errore di aggiornamento posizione"
+  },
+  "copy_current_datetime": {
+    "description": "",
+    "message": "Copia data attuale"
+  },
+  "set_date_from_photo": {
+    "description": "",
+    "message": "Questa foto ha una data preimpostata, vuoi aggiungerla a questo luogo?"
+  },
+  "cannot_create_folder": {
+    "description": "",
+    "message": "Errore durante la creazione della cartella ScoutLog"
+  },
+  "improve_location_accuracy_wifi_message": {
+    "description": "",
+    "message": "Puoi migliorare l'accuratezza della localizzazione del tuo dispositivo abilitando il Wi-Fi."
+  },
+  "media_tab_title": {
+    "description": "",
+    "message": "Media"
+  },
+  "pref_photos_location_title": {
+    "description": "",
+    "message": "Cartella di destinazione delle foto"
+  },
+  "import_photos_complete_notification_message_imported_singular": {
+    "description": "",
+    "message": "$1 foto importata"
+  },
+  "custom_marker": {
+    "description": "",
+    "message": "Segnaposto personalizzato"
+  },
+  "photo_file_create_error_message": {
+    "description": "",
+    "message": "È possibile che la nuova cartella non esista oppure ScoutLog non ha i permessi necessari per creare files all'interno di:<br><br>$1<br><br>Per cortesia cambia i permessi affinchè ScoutLog possa creare files o cambiare la destinazione delle foto nelle impostazioni."
+  },
+  "switch_display_mode_suggestion_title": {
+    "description": "",
+    "message": "Cambia visualizzazione"
+  },
+  "select_linked_places_title": {
+    "description": "",
+    "message": "Seleziona luoghi"
+  },
+  "send_email": {
+    "description": "",
+    "message": "Invia e-mail"
+  },
+  "date_title": {
+    "description": "",
+    "message": "Data"
+  },
+  "empty_photos_text": {
+    "description": "",
+    "message": "Non hai nessuna foto salvata per questo luogo."
+  },
+  "file_create_error_message": {
+    "description": "",
+    "message": "E' possibile che la cartella dove si sta tentando di accedere non esista oppure  ScoutLog non ha i permessi necessari per creare nuovi files al suo interno.<br><br>$1<br><br>Per cortesia dai a ScoutLog i necessari permessi oppure cambia la cartella di archiviazione nelle impostazioni"
+  },
+  "address_unavailable": {
+    "description": "",
+    "message": "(Indirizzo non disponibile al momento)"
+  },
+  "use_default": {
+    "description": "",
+    "message": "Usa standard"
+  },
+  "share_place": {
+    "description": "",
+    "message": "Condividi"
+  },
+  "move_photos_error_title": {
+    "description": "",
+    "message": "Errore durante il trasferimento delle foto"
+  },
+  "importing_place": {
+    "description": "",
+    "message": "Importando luogo..."
+  },
+  "map_toggle_terrain_desc": {
+    "description": "",
+    "message": "Attiva/disattiva visualizzazione satellitare"
+  },
+  "pref_measurement": {
+    "description": "",
+    "message": "Unità di misura della distanza"
+  },
+  "pref_show_map_markers_title": {
+    "description": "",
+    "message": "Mostra tutti segnaposto nella lista dei luoghi"
+  },
+  "duplicate_tag_error": {
+    "description": "",
+    "message": "Esiste già un'etichetta con questo nome"
+  },
+  "copy_datetime": {
+    "description": "",
+    "message": "Copia data e ora"
+  },
+  "next": {
+    "description": "",
+    "message": "Successivo"
+  },
+  "default_marker": {
+    "description": "",
+    "message": "Segnaposto predefinito"
+  },
+  "sync_email_button": {
+    "description": "",
+    "message": "Inviami un'e-mail per aiutare a risolvere il problema"
+  },
+  "import_complete_notification_message_imported": {
+    "description": "",
+    "message": "$1 aggiunti"
+  },
+  "no_google_play_services_message": {
+    "description": "",
+    "message": "Non è stato possibile trovare l'app Google Play services."
+  },
+  "improve_location_accuracy_title": {
+    "description": "",
+    "message": "Migliora l'accuratezza della localizzazione"
+  },
+  "unlock_app_yes": {
+    "description": "",
+    "message": "Acquista"
+  },
+  "map_search": {
+    "description": "",
+    "message": "Cerca indirizzo"
+  },
+  "integ_help_header_1": {
+    "description": "",
+    "message": "Come funziona"
+  },
+  "import_notification_message": {
+    "description": "",
+    "message": "Importa luoghi da file"
+  },
+  "import_complete_notification_title": {
+    "description": "",
+    "message": "Importazione completata"
+  },
+  "title": {
+    "description": "",
+    "message": "Titolo"
+  },
+  "export_notification_title": {
+    "description": "",
+    "message": "Esporto luoghi"
+  },
+  "full_sync_button": {
+    "description": "",
+    "message": "Avvia una sincronizzazione completa"
+  },
+  "selected_color": {
+    "description": "",
+    "message": "Colore selezionato"
+  },
+  "about_version": {
+    "description": "",
+    "message": "v$1"
+  },
+  "num_places_tagged_text_plural": {
+    "description": "",
+    "message": "$1 luoghi"
+  },
+  "menu_export": {
+    "description": "",
+    "message": "Esporta"
+  },
+  "pref_notify_unsaved_changes_title": {
+    "description": "",
+    "message": "Avviso per le modifiche non salvate"
+  },
+  "pref_category_sync": {
+    "description": "",
+    "message": "Sincronizza con Google Drive"
+  },
+  "undo": {
+    "description": "",
+    "message": "\"Annulla\""
+  },
+  "integ_help_header_3": {
+    "description": "",
+    "message": "Dati ignorati durante l'importazione"
+  },
+  "import_photos_complete_notification_message_ignored_plural": {
+    "description": "",
+    "message": "$1 foto ignorate"
+  },
+  "integ_help_header_2": {
+    "description": "",
+    "message": "Importa preferiti da Google Maps"
+  },
+  "places_title": {
+    "description": "",
+    "message": "Luoghi"
+  },
+  "ignore": {
+    "description": "",
+    "message": "Ignora"
+  },
+  "pref_sync_now_summary_google_error": {
+    "description": "",
+    "message": "Si è verificato un errore durante la connessione a Google, si prega di riprovare più tardi"
+  },
+  "linked_places_filter_text": {
+    "description": "",
+    "message": "Filtra luoghi"
+  },
+  "pref_import_multiple_photos_title": {
+    "description": "",
+    "message": "Organizza più foto"
+  },
+  "share_text": {
+    "description": "",
+    "message": "Condiviso con l'app ScoutLog"
+  },
+  "yes": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "about_email": {
+    "description": "",
+    "message": "Inviami un'e-mail!"
+  },
+  "pref_photo_storage_title": {
+    "description": "",
+    "message": "Spazio di archiviazione delle foto"
+  },
+  "settings_integ_title": {
+    "description": "",
+    "message": "Impostazioni: Importazione"
+  },
+  "copy_time": {
+    "description": "",
+    "message": "Copia ora"
+  },
+  "settings_main_title": {
+    "description": "",
+    "message": "Impostazioni"
+  },
+  "pref_account_summary": {
+    "description": "",
+    "message": "Entra nel tuo account Google"
+  },
+  "missing_selected_image_error": {
+    "description": "",
+    "message": "Hai selezionato il segnaposto personalizzato ma non hai selezionato una immagine da associare con esso."
+  },
+  "empty_tags_text": {
+    "description": "",
+    "message": "Non è presente nessuna etichetta salvata."
+  },
+  "location_request_failed": {
+    "description": "",
+    "message": "Errore nell'ottenimento della posizione"
+  },
+  "gdrive_storage_full_message": {
+    "description": "",
+    "message": "Lo spazio disponibile su Google Drive è esaurito, perciò ScoutLog non può più sincronizzare i dati.<br><br>Si prega di liberare spazio per poter sincronizzare nuovamente."
+  },
+  "add_tag_from_search": {
+    "description": "",
+    "message": "Aggiungi l'etichetta \"$1\""
+  },
+  "waiting_for_location": {
+    "description": "",
+    "message": "In attesa del segnale GPS..."
+  },
+  "photo_deleted_snackbar": {
+    "description": "",
+    "message": "Foto eliminata"
+  },
+  "custom_icon_not_found_error_sync": {
+    "description": "",
+    "message": "Se l'immagine è stata sincronizzata in Google Drive, puoi scaricarla di nuovo facendo la sincronizzazione."
+  },
+  "switch_display_mode_suggestion_message": {
+    "description": "",
+    "message": "Non stai aggiungendo foto per molti tuoi luoghi. Potrebbe esserti utile cambiare tipo di visualizzazione."
+  },
+  "browse_by_tags_title": {
+    "description": "",
+    "message": "Esplora per etichette"
+  },
+  "places_deleted_snackbar_singular": {
+    "description": "",
+    "message": "$1 luogo eliminato"
+  },
+  "sticky_current_location_help_screen_3": {
+    "description": "",
+    "message": "Nota che questa funzione consumerà batteria se lasciata attiva per lunghi periodi di tempo."
+  },
+  "select": {
+    "description": "",
+    "message": "Seleziona"
+  },
+  "audio_recordings_title": {
+    "description": "",
+    "message": "Audio"
+  },
+  "open_sync_settings": {
+    "description": "",
+    "message": "Apri impostazioni di sincronizzazione"
+  },
+  "pref_show_map_markers_summary": {
+    "description": "",
+    "message": "Se la prima etichetta di un luogo ha un segnaposto, mostralo nella visualizzazione griglia e lista."
+  },
+  "menu_sort_most_places": {
+    "description": "",
+    "message": "Più etichette"
+  },
+  "tag_deleted_snackbar": {
+    "description": "",
+    "message": "Etichetta eliminata"
+  },
+  "review_app_action": {
+    "description": "",
+    "message": "Valuta"
+  },
+  "dialog_color_picker_title": {
+    "description": "",
+    "message": "Seleziona un colore"
+  },
+  "menu_sort_fewest_places": {
+    "description": "",
+    "message": "Meno etichette"
+  },
+  "pref_reporting_summary": {
+    "description": "",
+    "message": "Aiuta ScoutLog inviando dati di utilizzo anonimi"
+  },
+  "open_drawer": {
+    "description": "",
+    "message": "Apri menu laterale"
+  },
+  "unlock_app_extension": {
+    "description": "",
+    "message": "Dammi altri 5 luoghi"
+  },
+  "new_place": {
+    "description": "",
+    "message": "Nuovo luogo"
+  },
+  "file_create_error_title": {
+    "description": "",
+    "message": "Impossibile creare files"
+  },
+  "photos_not_loaded_message": {
+    "description": "",
+    "message": "Una o più immagini non può essere caricata."
+  },
+  "account_not_found_message": {
+    "description": "",
+    "message": "Il tuo account di Google Drive non è stato trovato, perciò la sincronizzazione automatica sarà disabilitata."
+  },
+  "menu_export_csv": {
+    "description": "",
+    "message": "Esporta in formato CSV"
+  },
+  "sticky_current_location_help_screen_1": {
+    "description": "",
+    "message": "Hai abilitato la modalità \"Segui la tua posizione\"!<br><br>In questa modalità, quando premi il bottone della posizione corrente, la mappa rimarrà centrata sulla tua posizione."
+  },
+  "sticky_current_location_help_screen_2": {
+    "description": "",
+    "message": "Puoi disabilitarla premendo nuovamente il bottone della posizione corrente o trascinando la mappa."
+  },
+  "add_after_tags_hint_text": {
+    "description": "",
+    "message": "Etichette da aggiungere dopo quelle già esistenti"
+  },
+  "pref_ignore_imported_duplicates_title": {
+    "description": "",
+    "message": "Ignora duplicati"
+  },
+  "menu_delete_places": {
+    "description": "",
+    "message": "Elimina"
+  },
+  "empty_places_search_text": {
+    "description": "",
+    "message": "Non è stato trovato nessun luogo corrispondente ai criteri di ricerca."
+  },
+  "menu_select_all": {
+    "description": "",
+    "message": "Seleziona tutto"
+  },
+  "dismiss": {
+    "description": "",
+    "message": "Ignora"
+  },
+  "no_photo_for_sharing": {
+    "description": "",
+    "message": "Nessuna foto disponibile da condividere"
+  },
+  "no_camera_found_message": {
+    "description": "",
+    "message": "Nessuna fotocamera è stata trovata per questo dispositivo."
+  },
+  "copy_coordinates": {
+    "description": "",
+    "message": "Copia coordinate"
+  },
+  "import_failed_locations_count_message": {
+    "description": "",
+    "message": "Si e' verificato un errore, $1 / $2 importato/i"
+  },
+  "pref_reporting_title": {
+    "description": "",
+    "message": "Migliora ScoutLog"
+  },
+  "export_share_intent_title": {
+    "description": "",
+    "message": "Condividi file"
+  },
+  "auto_sync_dialog_message": {
+    "description": "",
+    "message": "La sincronizzazione automatica del sistema deve essere abilitata, ciò significa che le modifiche apportate alle app e agli account, non solo in ScoutLog, saranno sincronizzate."
+  },
+  "include_csv_header": {
+    "description": "",
+    "message": "Includi intestazione nel CSV"
+  },
+  "location_request_for_places_failed_message": {
+    "description": "",
+    "message": "Aggiornamento posizione fallito, i luoghi non potranno essere ordinati per vicinanza"
+  },
+  "gdrive_storage_full_title": {
+    "description": "",
+    "message": "Spazio su Google Drive esaurito"
+  },
+  "review_app_message": {
+    "description": "",
+    "message": "Ti piace ScoutLog? Scrivi una recensione sul Play Store!"
+  },
+  "pref_enable_linked_places_summary": {
+    "description": "",
+    "message": "Permette di associare luoghi multipli tramite una nuova scheda nella schermata dei dettagli"
+  },
+  "browse": {
+    "description": "",
+    "message": "Cerca"
+  },
+  "details_tab_title": {
+    "description": "",
+    "message": "Dettagli"
+  },
+  "import_photos_notification_title": {
+    "description": "",
+    "message": "Importazione foto"
+  },
+  "open_settings": {
+    "description": "",
+    "message": "Apri Impostazioni"
+  },
+  "address_help_text": {
+    "description": "",
+    "message": "Quando crei un nuovo luogo senza specificare la posizione, la tua posizione attuale verrá utilizzata come impostazione predefinita. Puoi cambiarla toccando qui."
+  },
+  "pref_ignore_imported_duplicates_summary": {
+    "description": "",
+    "message": "I dati importati le cui coordinate corrispondono a quelle di luoghi già presenti verranno ignorati."
+  },
+  "display_mode": {
+    "description": "",
+    "message": "Visualizzazione:"
+  },
+  "new_place_desc": {
+    "description": "",
+    "message": "$1<br><br>Premi per creare un nuovo luogo qui"
+  },
+  "remove_tags_hint_text": {
+    "description": "",
+    "message": "Etichette da eliminare"
+  },
+  "save": {
+    "description": "",
+    "message": "Salva"
+  },
+  "latitude_title": {
+    "description": "",
+    "message": "Latitudine"
+  },
+  "settings_advanced_category": {
+    "description": "",
+    "message": "Avanzate"
+  },
+  "add_place_widget": {
+    "description": "",
+    "message": "Aggiungi un luogo"
+  },
+  "pref_list_view_photos": {
+    "description": "",
+    "message": "Mostra foto nella visualizzazione lista"
+  },
+  "no_recording_set": {
+    "description": "",
+    "message": "Nessun file audio impostato"
+  },
+  "select_folder_title": {
+    "description": "",
+    "message": "Seleziona cartella"
+  },
+  "error_place_not_found": {
+    "description": "",
+    "message": "Questo luogo non e' stato trovato; può essere stato cancellato"
+  },
+  "menu_sort_reverse_alpha": {
+    "description": "",
+    "message": "Z - A"
+  },
+  "pick_date": {
+    "description": "",
+    "message": "Scegli una data per questo luogo"
+  },
+  "photos_tab_title": {
+    "description": "",
+    "message": "Foto"
+  },
+  "pref_show_closest_address_summary": {
+    "description": "",
+    "message": "Quando un luogo ha solo le coordinate di latitudine/longitudine, mostra l'indirizzo più vicino"
+  },
+  "select_tags_help_screen_2": {
+    "description": "",
+    "message": "Se ne ha uno, il colore della prima etichetta diventa il colore di quel luogo."
+  },
+  "select_tags_help_screen_1": {
+    "description": "",
+    "message": "Un luogo può avere etichette multiple e ogni etichetta può avere il suo colore."
+  },
+  "location_services_disabled_title": {
+    "description": "",
+    "message": "Servizi di localizzazione disabilitati"
+  },
+  "menu_sort_alpha": {
+    "description": "",
+    "message": "A - Z"
+  },
+  "appx_address_title": {
+    "description": "",
+    "message": "Indirizzo più vicino"
+  },
+  "pref_show_closest_address_title": {
+    "description": "",
+    "message": "Mostra l'indirizzo più vicino"
+  },
+  "pref_category_integ": {
+    "description": "",
+    "message": "Importa"
+  },
+  "places": {
+    "description": "",
+    "message": "Luoghi"
+  },
+  "info_set_from_photo": {
+    "description": "",
+    "message": "Informazioni fornite dalla foto"
+  },
+  "import_photos_complete_notification_message_ignored_singular": {
+    "description": "",
+    "message": "$1 foto ignorata"
+  },
+  "add_tag": {
+    "description": "",
+    "message": "Aggiungi etichetta"
+  },
+  "pref_category_behavior": {
+    "description": "",
+    "message": "Comportamento"
+  },
+  "import_failed_title": {
+    "description": "",
+    "message": "Errore d'importazione"
+  },
+  "import_data_not_recognized": {
+    "description": "",
+    "message": "I dati condivisi con ScoutLog non sono stati riconosciuti"
+  },
+  "import_complete_notification_message_ignored": {
+    "description": "",
+    "message": "$1 ignorati"
+  },
+  "place_created": {
+    "description": "",
+    "message": "Nuovo luogo creato"
+  },
+  "delete_place": {
+    "description": "",
+    "message": "Elimina"
+  },
+  "unlock_app_places_10_message": {
+    "description": "",
+    "message": "Puoi creare soltanto un numero limitato di luoghi nella versione gratuita di quest'app.<br><br>Per ottenere pieno accesso a tutte le funzionalità, si prega di acquistare la versione completa."
+  },
+  "copied": {
+    "description": "",
+    "message": "Copiato"
+  },
+  "auto_sync_dialog_title": {
+    "description": "",
+    "message": "Attivare la sincronizzazione automatica?"
+  },
+  "pref_auto_sync_title": {
+    "description": "",
+    "message": "Sincronizza automaticamente"
+  },
+  "settings_display_title": {
+    "description": "",
+    "message": "Impostazioni: Schermo"
+  },
+  "import_notification_title": {
+    "description": "",
+    "message": "Importa luoghi"
+  },
+  "copied_address": {
+    "description": "",
+    "message": "Indirizzo copiato"
+  },
+  "copy_date": {
+    "description": "",
+    "message": "Copia data"
+  },
+  "bulk_edit_tags_help_screen_3": {
+    "description": "",
+    "message": "Puoi anche rimuovere le etichette esistenti passando alla modalità modifica dalla barra degli strumenti."
+  },
+  "pref_about_title": {
+    "description": "",
+    "message": "Informazioni"
+  },
+  "longitude_title": {
+    "description": "",
+    "message": "Longitudine"
+  },
+  "pref_enable_dates_title": {
+    "description": "",
+    "message": "Attiva date"
+  },
+  "photo_not_loaded_title": {
+    "description": "",
+    "message": "Caricamento della foto fallito"
+  },
+  "error_unknown": {
+    "description": "",
+    "message": "ScoutLog ha incontrato un errore durante la sincronizzazione."
+  },
+  "moving_photos_message": {
+    "description": "",
+    "message": "Trasferimento foto"
+  },
+  "turn_on_auto_sync": {
+    "description": "",
+    "message": "Attiva"
+  },
+  "notify_unsaved_changes_dialog_title": {
+    "description": "",
+    "message": "Annulla modifiche?"
+  },
+  "custom_icon_not_found_error": {
+    "description": "",
+    "message": "L'immagine selezionata non è stata trovata nel dispositivo; potrebbe essere rinominata oppure cancellata."
+  },
+  "pref_enable_linked_places_title": {
+    "description": "",
+    "message": "Attiva l'associazione di luoghi"
+  },
+  "menu_sort_closest": {
+    "description": "",
+    "message": "Vicini"
+  },
+  "always": {
+    "description": "",
+    "message": "Sempre"
+  },
+  "settings": {
+    "description": "",
+    "message": "Impostazioni"
+  },
+  "add_place": {
+    "description": "",
+    "message": "Aggiungi un nuovo luogo"
+  },
+  "sync_help_text_2b": {
+    "description": "",
+    "message": "Se la sincronizzazione fallisce spesso, puoi inviarmi un'e-mail (sono lo sviluppatore). L'e-mail conterrà informazioni anonime riguardo i recenti errori di sincronizzazione che aiuteranno nella risoluzione del problema nelle versioni successive."
+  },
+  "pref_notify_unsaved_changes_summary": {
+    "description": "",
+    "message": "Mostra un messaggio d'avviso prima di eliminare le modifiche non salvate"
+  },
+  "integ_help_text_2": {
+    "description": "",
+    "message": "Per importare i preferiti da Google Maps, apri $1 nel browser e clicca su \"Esporta preferiti\". Il sito non è ottimizzato per dispositivi mobili, quindi potrebbe essere più semplice accedervi da PC. Dovrebbe così avviarsi lo scaricamento di un file che dovrai condividere con ScoutLog."
+  },
+  "integ_help_text_3": {
+    "description": "",
+    "message": "Alcuni dati possono essere stati ignorati durante l'importazione. Questo può accadere per svariati motivi:<br><br>1. Ci sono dei duplicati e l'impostazione \"ignora duplicati\" è selezionata.<br><br>2. Hai raggiunto il limite dei luoghi importabili e non hai ancora acquistato la app di sblocco.<br><br>3. Alcuni dati devono essere scaricati prima della importazione, e si è verificato un errore durante il download."
+  },
+  "select_tags_hint_text": {
+    "description": "",
+    "message": "Seleziona le etichette per il luogo"
+  },
+  "got_it": {
+    "description": "",
+    "message": "Capito"
+  },
+  "set_title": {
+    "description": "",
+    "message": "Imposta titolo"
+  },
+  "empty_filtered_tags_text": {
+    "description": "",
+    "message": "Non è presente alcuna etichetta corrispondente ai criteri di ricerca."
+  },
+  "sync_help_text_2a": {
+    "description": "",
+    "message": "Se alcuni dei tuoi dati non vengono sincronizzati su Google Drive, potrebbe esserci un problema con i metadati. Per massimizzare la sua efficienza, ScoutLog salva dei metadati per tener traccia di quali dati hanno subito modifiche dall'ultima sincronizzazione. Usa il bottone sotto per pulire i metadati e avviare una sincronizzazione completa."
+  },
+  "place_deleted": {
+    "description": "",
+    "message": "Luogo eliminato"
+  },
+  "bulk_edit_tags_help_screen_2": {
+    "description": "",
+    "message": "Perciò per ogni luogo puoi scegliere di aggiungere delle etichette sia prima che dopo quelle già esistenti."
+  },
+  "bulk_edit_tags_help_screen_1": {
+    "description": "",
+    "message": "Ogni luogo selezionato può avere etichette multiple, ed esse si trovano in un ordine specifico."
+  },
+  "no_email_apps": {
+    "description": "",
+    "message": "Non sono presenti applicazioni e-mail."
+  },
+  "custom_color": {
+    "description": "",
+    "message": "Personalizzato"
+  },
+  "integ_help_text_1": {
+    "description": "",
+    "message": "Condividi un file con ScoutLog per importare i dati. Sono supportati i formati GPX,  Google Bookmarks, e fotografie. In caso di problemi di importazione o richieste di supporto per un particolare formato, inviami un'e-mail."
+  },
+  "pref_sticky_current_location_summary": {
+    "description": "",
+    "message": "Se abilitata, la mappa rimarrà centrata sulla tua posizione, anche quando sei in movimento"
+  },
+  "photo_notes": {
+    "description": "",
+    "message": "Aggiungi una nota"
+  },
+  "pref_sync_now_title": {
+    "description": "",
+    "message": "Sincronizza ora"
+  },
+  "no": {
+    "description": "",
+    "message": "\"Annulla\""
+  },
+  "share_photo": {
+    "description": "",
+    "message": "Condividi foto"
+  },
+  "pref_account_title": {
+    "description": "",
+    "message": "Account"
+  },
+  "edit_note": {
+    "description": "",
+    "message": "Modifica nota"
+  },
+  "import_complete_notification_message_failed": {
+    "description": "",
+    "message": "$1 Fallito"
+  },
+  "long_wait_message": {
+    "description": "",
+    "message": "potrebbe richiedere qualche minuto per completare la sincronizzazione..."
+  },
+  "add_before_tags_hint_text": {
+    "description": "",
+    "message": "Etichette da aggiungere prima di quelle già esistenti"
+  },
+  "unlock_app_title": {
+    "description": "",
+    "message": "Sblocca nuove funzionalità"
+  },
+  "create_app_folder": {
+    "description": "",
+    "message": "Crea una cartella ScoutLog qui"
+  },
+  "add_after": {
+    "description": "",
+    "message": "Aggiungi dopo"
+  },
+  "pref_unlock_title": {
+    "description": "",
+    "message": "Acquista ScoutLog"
+  },
+  "set_location_and_date_from_photo": {
+    "description": "",
+    "message": "Questa foto contiene già informazioni di latitudine/longitudine e data, vuoi aggiungerli a questo luogo?"
+  },
+  "pref_sticky_current_location_title": {
+    "description": "",
+    "message": "Segui la tua posizione"
+  },
+  "show_help": {
+    "description": "",
+    "message": "Mostra aiuto"
+  },
+  "no_google_play_services_title": {
+    "description": "",
+    "message": "Google Play Services non trovato"
+  },
+  "num_places_tagged_text_singular": {
+    "description": "",
+    "message": "$1 luogo"
+  },
+  "camera_file_not_created_message": {
+    "description": "",
+    "message": "C'è stato un errore nell'apertura della fotocamera! Si prega di scattare una foto separatamente e in seguito aggiungerla dalla galleria."
+  },
+  "delete": {
+    "description": "",
+    "message": "\"Elimina\""
+  },
+  "error_401": {
+    "description": "",
+    "message": "ScoutLog deve accedere a Google Drive per funzionare correttamente."
+  },
+  "move_photos_title": {
+    "description": "",
+    "message": "Muovi foto"
+  },
+  "import_failed": {
+    "description": "",
+    "message": "Importazione dei dati fallita"
+  },
+  "menu_export_kml": {
+    "description": "",
+    "message": "Esporta in formato KML"
+  },
+  "ok": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "improve_location_accuracy_gps_message": {
+    "description": "",
+    "message": "Puoi migliorare l'accuratezza della localizzazione del tuo dispositivo abilitando il GPS."
+  },
+  "camera_file_not_created_title": {
+    "description": "",
+    "message": "Errore fotocamera"
+  },
+  "most_accurate_location_set": {
+    "description": "",
+    "message": "Posizione più accurata impostata"
+  },
+  "coordinates_title": {
+    "description": "",
+    "message": "Coordinate"
+  },
+  "integ_email_button": {
+    "description": "",
+    "message": "Inviami un'e-mail"
+  },
+  "pref_unlock_summary": {
+    "description": "",
+    "message": "Acquista la versione completa per avere pieno accesso alle funzionalità di ScoutLog"
+  },
+  "integ_help_title": {
+    "description": "",
+    "message": "Aiuto importazione"
+  },
+  "import_photos_notification_message_singular": {
+    "description": "",
+    "message": "importo $1 foto"
+  },
+  "about_concerns": {
+    "description": "",
+    "message": "Domande, commenti, suggerimenti?"
+  },
+  "untagged_places": {
+    "description": "",
+    "message": "(Senza etichetta)"
+  },
+  "edit_title": {
+    "description": "",
+    "message": "Modifica titolo"
+  },
+  "add_photo_camera": {
+    "description": "",
+    "message": "Scatta una foto"
+  },
+  "add_photo_gallery": {
+    "description": "",
+    "message": "Aggiungi una foto dalla galleria"
+  },
+  "no_camera_found_title": {
+    "description": "",
+    "message": "Nessuna fotocamera trovata"
+  },
+  "settings_sync_title": {
+    "description": "",
+    "message": "Impostazioni: Sincronizzazione"
+  },
+  "import_failed_message": {
+    "description": "",
+    "message": "Si e' verificato un errore durante l'importazione"
+  },
+  "location_services_disabled_message": {
+    "description": "",
+    "message": "I servizi di localizzazione devono essere abilitati per ottenere la posizione corrente."
+  },
+  "navigate_up_folder": {
+    "description": "",
+    "message": "Vai alla cartella precedente"
+  }
+}

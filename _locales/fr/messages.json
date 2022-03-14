@@ -1,0 +1,666 @@
+{
+  "sticky_current_location_help_screen_3": {
+    "description": "",
+    "message": "Veuillez noter que cette fonctionnalité consommera beaucoup de votre batterie si laissez active pendant une longue période de temps."
+  },
+  "cancel": {
+    "description": "",
+    "message": "\"Annuler\""
+  },
+  "select": {
+    "description": "",
+    "message": "Sélectionner"
+  },
+  "account_not_found_title": {
+    "description": "",
+    "message": "Compte Google non trouvé"
+  },
+  "open_sync_settings": {
+    "description": "",
+    "message": "Ouvrir les paramètres de sync"
+  },
+  "nav_action_failed": {
+    "description": "",
+    "message": "L'action de navigation a échoué"
+  },
+  "no_location_set": {
+    "description": "",
+    "message": "(Position indéterminée)"
+  },
+  "menu_sort_most_places": {
+    "description": "",
+    "message": "La plupart des lieux étiquetés"
+  },
+  "tag_deleted_snackbar": {
+    "description": "",
+    "message": "Étiquette supprimée"
+  },
+  "dialog_color_picker_title": {
+    "description": "",
+    "message": "Sélectionner une couleur"
+  },
+  "menu_sort_newest": {
+    "description": "",
+    "message": "Les plus nouveaux"
+  },
+  "menu_sort_fewest_places": {
+    "description": "",
+    "message": "Lieux les moins étiquetés"
+  },
+  "set_location_from_photo": {
+    "description": "",
+    "message": "Cette photo a une latitude et longitude de paramétrées, écraser avec ces nouvelles données ?"
+  },
+  "copied_coordinates": {
+    "description": "",
+    "message": "Coordonnées copiées"
+  },
+  "open_drawer": {
+    "description": "",
+    "message": "Ouvrir le Menu de Navigation"
+  },
+  "address_not_found": {
+    "description": "",
+    "message": "L'adresse n'a pas pus être trouvée"
+  },
+  "new_place": {
+    "description": "",
+    "message": "Nouveau lieu"
+  },
+  "address_title": {
+    "description": "",
+    "message": "Adresse"
+  },
+  "tag_edit_dialog_title": {
+    "description": "",
+    "message": "Titre de l'Étiquette"
+  },
+  "photos_not_loaded_message": {
+    "description": "",
+    "message": "Une image ou plus n'a pas pus être chargée"
+  },
+  "sync_help_header_1": {
+    "description": "",
+    "message": "Comment ça marche"
+  },
+  "account_not_found_message": {
+    "description": "",
+    "message": "Votre compte Google Drive n'a pas pus être trouvé, aussi la synchronisation sera désactivé."
+  },
+  "menu_export_csv": {
+    "description": "",
+    "message": "Exporter en tant que CSV"
+  },
+  "sticky_current_location_help_screen_1": {
+    "description": "",
+    "message": "Vous avez activé le mode \"Suivre votre positionnement\" !<br><br>Dans ce mode, quand vous appuyez sur le bouton \"position courante\", la carte restera centrée sur votre position."
+  },
+  "sticky_current_location_help_screen_2": {
+    "description": "",
+    "message": "Vous pouvez le désactiver en appuyant sur le bouton de \"position courante\" à nouveau, ou en swippant sur la carte."
+  },
+  "navigate": {
+    "description": "",
+    "message": "Naviguer"
+  },
+  "untitled": {
+    "description": "",
+    "message": "(Sans titre)"
+  },
+  "menu_delete_places": {
+    "description": "",
+    "message": "Supprimer"
+  },
+  "empty_places_search_text": {
+    "description": "",
+    "message": "Aucun lieu ne corresponds à cette recherche."
+  },
+  "menu_select_all": {
+    "description": "",
+    "message": "Sélectionner tout"
+  },
+  "dismiss": {
+    "description": "",
+    "message": "Ignorer"
+  },
+  "no_photo_for_sharing": {
+    "description": "",
+    "message": "Aucune photo disponible pour le partage"
+  },
+  "tags": {
+    "description": "",
+    "message": "Ajouter des étiquettes"
+  },
+  "no_camera_found_message": {
+    "description": "",
+    "message": "Aucun appareil photo n'a été trouvé sur cet appareil"
+  },
+  "copy_coordinates": {
+    "description": "",
+    "message": "Copier les coordonnées"
+  },
+  "add_before": {
+    "description": "",
+    "message": "Ajouter avant"
+  },
+  "delete_tag": {
+    "description": "",
+    "message": "Supprimer"
+  },
+  "export_share_intent_title": {
+    "description": "",
+    "message": "Partager un fichier"
+  },
+  "menu_sort_oldest": {
+    "description": "",
+    "message": "Le plus vieux"
+  },
+  "close_drawer": {
+    "description": "",
+    "message": "Fermer le Menu de Navigation"
+  },
+  "location_request_for_places_failed_message": {
+    "description": "",
+    "message": "Échec de la mise à jours de votre position, aussi les lieux n'ont pas pu être triés par ordre de proximité."
+  },
+  "details_tab_title": {
+    "description": "",
+    "message": "Détails"
+  },
+  "menu_export_gpx": {
+    "description": "",
+    "message": "Exporter en tant que GPX"
+  },
+  "display_mode": {
+    "description": "",
+    "message": "Mode d'affichage :"
+  },
+  "export_failed_message": {
+    "description": "",
+    "message": "Une erreur s'est produite pendant l'export."
+  },
+  "empty_places_text": {
+    "description": "",
+    "message": "Vous n'avez aucun lieu d'enregistré."
+  },
+  "new_place_desc": {
+    "description": "",
+    "message": "$1<br><br>Appuyez pour créer un nouveau lieu ici."
+  },
+  "linked_place": {
+    "description": "",
+    "message": "Lier à un autre lieu"
+  },
+  "remove_tags_hint_text": {
+    "description": "",
+    "message": "Étiquettes à retirer"
+  },
+  "save": {
+    "description": "",
+    "message": "Sauvegarder"
+  },
+  "linked_places_edit": {
+    "description": "",
+    "message": "Éditer"
+  },
+  "menu_edit_tags": {
+    "description": "",
+    "message": "Éditer les étiquettes"
+  },
+  "sync_warning_dialog_title": {
+    "description": "",
+    "message": "Paramétrer la synchronisation"
+  },
+  "settings_advanced_category": {
+    "description": "",
+    "message": "Avancé"
+  },
+  "search": {
+    "description": "",
+    "message": "Recherche"
+  },
+  "no_navigation_app": {
+    "description": "",
+    "message": "Impossible de trouver une app de navigation"
+  },
+  "no_thanks": {
+    "description": "",
+    "message": "Non merci"
+  },
+  "copy_address": {
+    "description": "",
+    "message": "Copier l'adresse"
+  },
+  "menu_sort_reverse_alpha": {
+    "description": "",
+    "message": "Z - A"
+  },
+  "pick_date": {
+    "description": "",
+    "message": "Choisir une date pour ce lieu"
+  },
+  "photos_tab_title": {
+    "description": "",
+    "message": "Photos"
+  },
+  "tags_title": {
+    "description": "",
+    "message": "Sélectionner les étiquettes"
+  },
+  "select_tags_help_screen_2": {
+    "description": "",
+    "message": "Si il en a un, la couleur de la première étiquette devient la couleur de l'épingle de ce lieu sur la carte."
+  },
+  "close": {
+    "description": "",
+    "message": "Fermer"
+  },
+  "select_tags_help_screen_1": {
+    "description": "",
+    "message": "Un lieu peut avoir de multiples étiquettes, et chacune d'entre elle peut avoir sa propre couleur."
+  },
+  "try_again": {
+    "description": "",
+    "message": "Essayez à nouveau"
+  },
+  "export_failed_title": {
+    "description": "",
+    "message": "Erreur d'export"
+  },
+  "bulk_edit_tags_title": {
+    "description": "",
+    "message": "Édition des étiquettes"
+  },
+  "untagged_places_title": {
+    "description": "",
+    "message": "Lieux sans étiquette"
+  },
+  "location_services_disabled_title": {
+    "description": "",
+    "message": "Service de positionnement désactivé"
+  },
+  "edit_tag": {
+    "description": "",
+    "message": "Renommer"
+  },
+  "menu_sort_alpha": {
+    "description": "",
+    "message": "A - Z"
+  },
+  "appx_address_title": {
+    "description": "",
+    "message": "Adresse la plus proche"
+  },
+  "app_name": {
+    "description": "",
+    "message": "ScoutLog"
+  },
+  "delete_photo": {
+    "description": "",
+    "message": "Supprimer la photo"
+  },
+  "photo_not_loaded_message": {
+    "description": "",
+    "message": "Cette image n'a pas pu être chargée"
+  },
+  "places": {
+    "description": "",
+    "message": "Lieux"
+  },
+  "info_set_from_photo": {
+    "description": "",
+    "message": "Infos sauvegardées depuis la photo"
+  },
+  "add_tag": {
+    "description": "",
+    "message": "Ajouter une étiquette"
+  },
+  "sync_warning_dialog_message": {
+    "description": "",
+    "message": "Vous avez ajouter plus de 15 lieux à ScoutLog !<br><br>Il est recommandé que vous paramétriez la synchronisation de vos données pour qu'elles soient protégés dans le cloud."
+  },
+  "default_color": {
+    "description": "",
+    "message": "Défaut"
+  },
+  "no_location_set_toast": {
+    "description": "",
+    "message": "Position indéterminée"
+  },
+  "sync_help_title": {
+    "description": "",
+    "message": "Aide sur la sync"
+  },
+  "browse_by_tags": {
+    "description": "",
+    "message": "Parcourir par étiquettes"
+  },
+  "menu_sort": {
+    "description": "",
+    "message": "Trier"
+  },
+  "place_created": {
+    "description": "",
+    "message": "Nouveau lieu créé"
+  },
+  "delete_place": {
+    "description": "",
+    "message": "Supprimer"
+  },
+  "notes": {
+    "description": "",
+    "message": "Ajouter une note"
+  },
+  "copied": {
+    "description": "",
+    "message": "Copié"
+  },
+  "places_deleted_snackbar_plural": {
+    "description": "",
+    "message": "$1 lieux supprimés"
+  },
+  "copied_address": {
+    "description": "",
+    "message": "Adresse copiée"
+  },
+  "copy_date": {
+    "description": "",
+    "message": "Copier la date"
+  },
+  "bulk_edit_tags_help_screen_3": {
+    "description": "",
+    "message": "Vous pouvez aussi supprimer les étiquettes existantes dans le mode édition depuis la barre à outil."
+  },
+  "location_request_for_places_failed_title": {
+    "description": "",
+    "message": "Erreur lors de la mise à jour du lieu"
+  },
+  "copy_current_datetime": {
+    "description": "",
+    "message": "Copier la date courante"
+  },
+  "set_date_from_photo": {
+    "description": "",
+    "message": "Cette photo a une date de paramétrée, l'écraser avec cette nouvelle date ?"
+  },
+  "photo_not_loaded_title": {
+    "description": "",
+    "message": "Erreur au chargement de l'image"
+  },
+  "improve_location_accuracy_wifi_message": {
+    "description": "",
+    "message": "Vous pouvez améliorer la précision du positionnement de votre appareil en activant le Wifi."
+  },
+  "menu_sort_closest": {
+    "description": "",
+    "message": "Le plus proche"
+  },
+  "always": {
+    "description": "",
+    "message": "Toujours"
+  },
+  "settings": {
+    "description": "",
+    "message": "Paramètres"
+  },
+  "add_place": {
+    "description": "",
+    "message": "Ajouter un nouveau lieu"
+  },
+  "switch_display_mode_suggestion_title": {
+    "description": "",
+    "message": "Basculer le mode d'affichage"
+  },
+  "select_linked_places_title": {
+    "description": "",
+    "message": "Sélectionnez des lieux"
+  },
+  "select_tags_hint_text": {
+    "description": "",
+    "message": "Sélectionner des étiquettes pour le lieu"
+  },
+  "got_it": {
+    "description": "",
+    "message": "Compris"
+  },
+  "empty_photos_text": {
+    "description": "",
+    "message": "Vous n'avez pas de photos sauvegardées pour cet endroit"
+  },
+  "set_title": {
+    "description": "",
+    "message": "Écrire un titre"
+  },
+  "empty_filtered_tags_text": {
+    "description": "",
+    "message": "Aucune étiquette ne corresponds à votre recherche."
+  },
+  "place_deleted": {
+    "description": "",
+    "message": "Lieu supprimé"
+  },
+  "address_unavailable": {
+    "description": "",
+    "message": "(Adresse indisponible pour le moment)"
+  },
+  "bulk_edit_tags_help_screen_2": {
+    "description": "",
+    "message": "Ainsi, vous pouvez ajouter des étiquettes avant ou après les étiquettes existantes pour ce lieu."
+  },
+  "bulk_edit_tags_help_screen_1": {
+    "description": "",
+    "message": "Tous les endroits que vous avez sélectionné peuvent avoir plusieurs étiquettes, et ont un ordre spécifique."
+  },
+  "share_place": {
+    "description": "",
+    "message": "Partager"
+  },
+  "map_toggle_terrain_desc": {
+    "description": "",
+    "message": "Basculer la vue satellite"
+  },
+  "photo_notes": {
+    "description": "",
+    "message": "Ajouter une note"
+  },
+  "duplicate_tag_error": {
+    "description": "",
+    "message": "Une étiquette avec ce titre existe déjà"
+  },
+  "copy_datetime": {
+    "description": "",
+    "message": "Copier la date et l'heure"
+  },
+  "next": {
+    "description": "",
+    "message": "Suivant"
+  },
+  "no": {
+    "description": "",
+    "message": "\"Annuler\""
+  },
+  "share_photo": {
+    "description": "",
+    "message": "Partager la photo"
+  },
+  "edit_note": {
+    "description": "",
+    "message": "Éditer la note"
+  },
+  "no_google_play_services_message": {
+    "description": "",
+    "message": "Impossible de trouver le service de l'application Google Play."
+  },
+  "improve_location_accuracy_title": {
+    "description": "",
+    "message": "Améliorer la précision du positionnement"
+  },
+  "add_before_tags_hint_text": {
+    "description": "",
+    "message": "Étiquettes à ajouter avant de partir"
+  },
+  "add_after": {
+    "description": "",
+    "message": "Ajouter après"
+  },
+  "set_location_and_date_from_photo": {
+    "description": "",
+    "message": "Cette photo a une latitude, longitude et une date de paramétrées, écraser avec ces nouvelles données ?"
+  },
+  "map_search": {
+    "description": "",
+    "message": "Recherche l'adresse"
+  },
+  "show_help": {
+    "description": "",
+    "message": "Montrer l'Aide"
+  },
+  "no_google_play_services_title": {
+    "description": "",
+    "message": "Service Google Play non trouvé"
+  },
+  "title": {
+    "description": "",
+    "message": "Titre"
+  },
+  "num_places_tagged_text_singular": {
+    "description": "",
+    "message": "$1 lieu"
+  },
+  "export_notification_title": {
+    "description": "",
+    "message": "En train d'exporter vos lieux"
+  },
+  "camera_file_not_created_message": {
+    "description": "",
+    "message": "Il y a eu une erreur à l'ouverture de l'appareil photo ! Veuillez prendre une photo par vous même et l'ajouter à la galerie."
+  },
+  "delete": {
+    "description": "",
+    "message": "\"Supprimer\""
+  },
+  "selected_color": {
+    "description": "",
+    "message": "Couleur sélectionnée"
+  },
+  "num_places_tagged_text_plural": {
+    "description": "",
+    "message": "$1 lieux"
+  },
+  "menu_export": {
+    "description": "",
+    "message": "Exporter"
+  },
+  "undo": {
+    "description": "",
+    "message": "\"Annuler\""
+  },
+  "places_title": {
+    "description": "",
+    "message": "Lieux"
+  },
+  "ignore": {
+    "description": "",
+    "message": "Ignorer"
+  },
+  "menu_export_kml": {
+    "description": "",
+    "message": "Exporter en tant que KML"
+  },
+  "linked_places_filter_text": {
+    "description": "",
+    "message": "Filtrer les lieux"
+  },
+  "ok": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "share_text": {
+    "description": "",
+    "message": "Partager avec l'app ScoutLog"
+  },
+  "improve_location_accuracy_gps_message": {
+    "description": "",
+    "message": "Vous pouvez améliorer la précision du positionnement de votre appareil en activant le GPS."
+  },
+  "camera_file_not_created_title": {
+    "description": "",
+    "message": "Erreur de l'appareil photo"
+  },
+  "most_accurate_location_set": {
+    "description": "",
+    "message": "Positionnement le plus précis paramétré"
+  },
+  "coordinates_title": {
+    "description": "",
+    "message": "Coordonnées"
+  },
+  "yes": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "settings_integ_title": {
+    "description": "",
+    "message": "Paramètres : Import"
+  },
+  "copy_time": {
+    "description": "",
+    "message": "Copier le l'heure"
+  },
+  "empty_tags_text": {
+    "description": "",
+    "message": "Vous n'avez aucune étiquette sauvegardée."
+  },
+  "location_request_failed": {
+    "description": "",
+    "message": "Échec de la récupération de votre position"
+  },
+  "untagged_places": {
+    "description": "",
+    "message": "(Sans étiquette)"
+  },
+  "edit_title": {
+    "description": "",
+    "message": "Modifier le Titre"
+  },
+  "add_tag_from_search": {
+    "description": "",
+    "message": "Ajouter l'étiquette \"$1\""
+  },
+  "waiting_for_location": {
+    "description": "",
+    "message": "En attente de votre position..."
+  },
+  "add_photo_camera": {
+    "description": "",
+    "message": "Prendre une photo"
+  },
+  "add_photo_gallery": {
+    "description": "",
+    "message": "Ajouter une photo depuis votre gallerie"
+  },
+  "photo_deleted_snackbar": {
+    "description": "",
+    "message": "Photo supprimée"
+  },
+  "no_camera_found_title": {
+    "description": "",
+    "message": "Aucun appareil photo trouvé"
+  },
+  "switch_display_mode_suggestion_message": {
+    "description": "",
+    "message": "Vous n'ajoutez pas de photos pour la plupart de vos lieux. Vous préférerez sûrement un autre mode d'affichage."
+  },
+  "location_services_disabled_message": {
+    "description": "",
+    "message": "Les services de positionnement doivent être activé pour obtenir votre position."
+  },
+  "browse_by_tags_title": {
+    "description": "",
+    "message": "Parcourir par étiquettes"
+  },
+  "places_deleted_snackbar_singular": {
+    "description": "",
+    "message": "$1 lieu supprimé"
+  }
+}

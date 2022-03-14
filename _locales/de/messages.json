@@ -1,0 +1,394 @@
+{
+  "cancel": {
+    "description": "",
+    "message": "\"Abbrechen\""
+  },
+  "account_not_found_title": {
+    "description": "",
+    "message": "Google Account nicht gefunden"
+  },
+  "audio_recordings_title": {
+    "description": "",
+    "message": "Audioaufnahmen"
+  },
+  "upload": {
+    "description": "",
+    "message": "Hochladen"
+  },
+  "open_sync_settings": {
+    "description": "",
+    "message": "Sync. Einstellungen öffnen"
+  },
+  "import_photos_complete_notification_message_imported_plural": {
+    "description": "",
+    "message": "$1 Fotos importiert"
+  },
+  "nav_action_failed": {
+    "description": "",
+    "message": "Navigation fehlgeschlagen"
+  },
+  "no_location_set": {
+    "description": "",
+    "message": "(Kein Standort festgelegt)"
+  },
+  "menu_sort_most_places": {
+    "description": "",
+    "message": "Meist getaggte Orte"
+  },
+  "menu_sort_newest": {
+    "description": "",
+    "message": "Neueste"
+  },
+  "menu_sort_fewest_places": {
+    "description": "",
+    "message": "Am wenigsten getaggte Orte"
+  },
+  "empty_media_text": {
+    "description": "",
+    "message": "Du hast keinerlei Medien für diesen Ort gespeichert."
+  },
+  "copied_coordinates": {
+    "description": "",
+    "message": "Koordinaten kopiert"
+  },
+  "pref_reporting_summary": {
+    "description": "",
+    "message": "Hilf ScoutLog zu verbessern indem Anonyme Nutzerdaten erfasst und gesendet werden"
+  },
+  "open_drawer": {
+    "description": "",
+    "message": "Navigationsleiste öffnen"
+  },
+  "account_not_found_message": {
+    "description": "",
+    "message": "Ihr Google Drive-Konto konnte nicht gefunden werden. Synchronisation wird deaktiviert."
+  },
+  "add_audio_recording": {
+    "description": "",
+    "message": "Audio aufnehmen"
+  },
+  "menu_export_csv": {
+    "description": "",
+    "message": "Als CSV exportieren"
+  },
+  "untitled": {
+    "description": "",
+    "message": "(Ohne Titel)"
+  },
+  "menu_delete_places": {
+    "description": "",
+    "message": "Löschen"
+  },
+  "empty_places_search_text": {
+    "description": "",
+    "message": "Keine Orte entsprechend des Suchbegriffes gefunden."
+  },
+  "menu_select_all": {
+    "description": "",
+    "message": "Alle wählen"
+  },
+  "dismiss": {
+    "description": "",
+    "message": "Verwerfen"
+  },
+  "copy_coordinates": {
+    "description": "",
+    "message": "Koordinaten kopieren"
+  },
+  "about_credit": {
+    "description": "",
+    "message": "App Icon von $1"
+  },
+  "pref_reporting_title": {
+    "description": "",
+    "message": "ScoutLog verbessern"
+  },
+  "export_share_intent_title": {
+    "description": "",
+    "message": "Datei teilen"
+  },
+  "menu_sort_oldest": {
+    "description": "",
+    "message": "Älteste"
+  },
+  "close_drawer": {
+    "description": "",
+    "message": "Navigationsleiste schließen"
+  },
+  "browse": {
+    "description": "",
+    "message": "Browse"
+  },
+  "import_photos_notification_title": {
+    "description": "",
+    "message": "Fotos importieren"
+  },
+  "menu_export_gpx": {
+    "description": "",
+    "message": "Als GPX exportieren"
+  },
+  "display_mode": {
+    "description": "",
+    "message": "Ansicht"
+  },
+  "export_failed_message": {
+    "description": "",
+    "message": "Es gab einen Fehler beim exportieren."
+  },
+  "empty_places_text": {
+    "description": "",
+    "message": "Sie haben keine gespeicherten Orte."
+  },
+  "new_place_desc": {
+    "description": "",
+    "message": "$1<br><br>Hier tippen um eine Platzierung zu erstellen."
+  },
+  "menu_edit_tags": {
+    "description": "",
+    "message": "Tags bearbeiten"
+  },
+  "about_licenses": {
+    "description": "",
+    "message": "Open source Lizenzen"
+  },
+  "sync_warning_dialog_title": {
+    "description": "",
+    "message": "Synchronisation einrichten"
+  },
+  "search": {
+    "description": "",
+    "message": "Suchen"
+  },
+  "copy_address": {
+    "description": "",
+    "message": "Adresse kopieren"
+  },
+  "no_recording_set": {
+    "description": "",
+    "message": "Keine Aufnahme festgelegt"
+  },
+  "menu_sort_reverse_alpha": {
+    "description": "",
+    "message": "Z - A"
+  },
+  "close": {
+    "description": "",
+    "message": "Schließen"
+  },
+  "try_again": {
+    "description": "",
+    "message": "Nochmal versuchen"
+  },
+  "export_failed_title": {
+    "description": "",
+    "message": "Export-Fehler"
+  },
+  "location_services_disabled_title": {
+    "description": "",
+    "message": "Ortung deaktiviert"
+  },
+  "menu_sort_alpha": {
+    "description": "",
+    "message": "A - Z"
+  },
+  "app_name": {
+    "description": "",
+    "message": "ScoutLog"
+  },
+  "places": {
+    "description": "",
+    "message": "Orte"
+  },
+  "import_photos_complete_notification_message_ignored_singular": {
+    "description": "",
+    "message": "$1 Foto ignoriert"
+  },
+  "sync_warning_dialog_message": {
+    "description": "",
+    "message": "Sie haben mehr als 15 Orte zu ScoutLog hinzugefügt! <br><br>Es wird empfohlen dass Sie die Synchronisation einrichten damit ihre Daten sicher in der Cloud aufgehoben sind."
+  },
+  "import_failed_title": {
+    "description": "",
+    "message": "Import Fehler"
+  },
+  "about_title": {
+    "description": "",
+    "message": "Über"
+  },
+  "no_location_set_toast": {
+    "description": "",
+    "message": "Kein Standort festgelegt"
+  },
+  "import_photos_notification_message_plural": {
+    "description": "",
+    "message": "importiere $1 Fotos"
+  },
+  "browse_by_tags": {
+    "description": "",
+    "message": "Auflisten nach Tags"
+  },
+  "menu_sort": {
+    "description": "",
+    "message": "Sortieren"
+  },
+  "unlock_app_no": {
+    "description": "",
+    "message": "Abbrechen"
+  },
+  "places_deleted_snackbar_plural": {
+    "description": "",
+    "message": "$1 Orte gelöscht"
+  },
+  "copied_address": {
+    "description": "",
+    "message": "Adresse kopiert"
+  },
+  "pref_about_title": {
+    "description": "",
+    "message": "Über"
+  },
+  "location_request_for_places_failed_title": {
+    "description": "",
+    "message": "Fehler beim Update der Ortung"
+  },
+  "improve_location_accuracy_wifi_message": {
+    "description": "",
+    "message": "Sie können die Genauigkeit der Ortung verbessern indem WiFi aktiviert wird."
+  },
+  "media_tab_title": {
+    "description": "",
+    "message": "Platzhalter"
+  },
+  "import_photos_complete_notification_message_imported_singular": {
+    "description": "",
+    "message": "$1 Foto importiert"
+  },
+  "menu_sort_closest": {
+    "description": "",
+    "message": "Näheste"
+  },
+  "always": {
+    "description": "",
+    "message": "Immer"
+  },
+  "settings": {
+    "description": "",
+    "message": "Einstellungen"
+  },
+  "add_place": {
+    "description": "",
+    "message": "Neuen Ort hinzufügen"
+  },
+  "send_email": {
+    "description": "",
+    "message": "Email senden"
+  },
+  "address_unavailable": {
+    "description": "",
+    "message": "(Adresse derzeit nicht verfügbar)"
+  },
+  "map_toggle_terrain_desc": {
+    "description": "",
+    "message": "Satelit-Hybrid Karte umschalten"
+  },
+  "no": {
+    "description": "",
+    "message": "\"Abbrechen\""
+  },
+  "no_google_play_services_message": {
+    "description": "",
+    "message": "Kann Google Play App nicht finden."
+  },
+  "improve_location_accuracy_title": {
+    "description": "",
+    "message": "Ortungsgenauigkeit verbessern"
+  },
+  "unlock_app_title": {
+    "description": "",
+    "message": "Mehr Funktionen freischalten"
+  },
+  "unlock_app_yes": {
+    "description": "",
+    "message": "App freischalten"
+  },
+  "pref_unlock_title": {
+    "description": "",
+    "message": "ScoutLog freischalten"
+  },
+  "import_complete_notification_title": {
+    "description": "",
+    "message": "Import fertiggestellt"
+  },
+  "no_google_play_services_title": {
+    "description": "",
+    "message": "Google Play-Dienste nicht gefunden"
+  },
+  "export_notification_title": {
+    "description": "",
+    "message": "Orte exportieren"
+  },
+  "delete": {
+    "description": "",
+    "message": "\"Löschen\""
+  },
+  "about_version": {
+    "description": "",
+    "message": "v$1"
+  },
+  "menu_export": {
+    "description": "",
+    "message": "Exportieren"
+  },
+  "undo": {
+    "description": "",
+    "message": "\"Rückgängig machen\""
+  },
+  "import_photos_complete_notification_message_ignored_plural": {
+    "description": "",
+    "message": "$1 Fotos ignoriert"
+  },
+  "places_title": {
+    "description": "",
+    "message": "Orte"
+  },
+  "ignore": {
+    "description": "",
+    "message": "Ignorieren"
+  },
+  "menu_export_kml": {
+    "description": "",
+    "message": "Als KML exportieren"
+  },
+  "ok": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "improve_location_accuracy_gps_message": {
+    "description": "",
+    "message": "Sie können die Genauigkeit der Ortung verbessern indem GPS aktiviert wird."
+  },
+  "yes": {
+    "description": "",
+    "message": "\"OK\""
+  },
+  "import_photos_notification_message_singular": {
+    "description": "",
+    "message": "importiere $1 Foto"
+  },
+  "location_request_failed": {
+    "description": "",
+    "message": "Ermittlung des Standortes fehlgeschlagen"
+  },
+  "waiting_for_location": {
+    "description": "",
+    "message": "Warten auf Standort ..."
+  },
+  "location_services_disabled_message": {
+    "description": "",
+    "message": "Ortung muss eingeschaltet sein um die Position zu ermitteln."
+  },
+  "places_deleted_snackbar_singular": {
+    "description": "",
+    "message": "$1 Ort gelöscht"
+  }
+}

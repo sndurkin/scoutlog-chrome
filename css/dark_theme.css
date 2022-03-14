@@ -1,0 +1,220 @@
+body.dark-theme {
+  background: #000;
+  color: #e8e8e8;
+}
+
+/* Dropdowns */
+.dark-theme .dropdown-content {
+  background-color: #333;
+}
+.dark-theme .select-wrapper span.caret {
+  color: #e8e8e8;
+}
+.dark-theme .dropdown-content li {
+  color: #e8e8e8;
+}
+.dark-theme .dropdown-content li:hover,
+.dark-theme .dropdown-content li.active,
+.dark-theme .dropdown-content li.selected {
+  background-color: #555;
+}
+.dark-theme .dropdown-content li > a,
+.dark-theme .dropdown-content li > span {
+  color: #3cf;
+}
+
+/* Inputs */
+.dark-theme .input-field label {
+  color: #bbb;
+}
+.dark-theme input:not([type]), .dark-theme input[type=text],
+.dark-theme input[type=password], .dark-theme input[type=email],
+.dark-theme input[type=url], .dark-theme input[type=time],
+.dark-theme input[type=date], .dark-theme input[type=datetime],
+.dark-theme input[type=datetime-local], .dark-theme input[type=tel],
+.dark-theme input[type=number], .dark-theme input[type=search],
+.dark-theme textarea.materialize-textarea {
+  border-bottom-color: #777;
+}
+.dark-theme input[type=text]:focus:not([readonly]), .dark-theme input[type=password]:focus:not([readonly]),
+.dark-theme input[type=email]:focus:not([readonly]), .dark-theme input[type=url]:focus:not([readonly]),
+.dark-theme input[type=time]:focus:not([readonly]), .dark-theme input[type=date]:focus:not([readonly]),
+.dark-theme input[type=datetime-local]:focus:not([readonly]), .dark-theme input[type=tel]:focus:not([readonly]),
+.dark-theme input[type=number]:focus:not([readonly]), .dark-theme input[type=search]:focus:not([readonly]),
+.dark-theme textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #3cf;
+  box-shadow: 0 1px 0 0 #3cf;
+}
+.dark-theme input[type=text]:focus:not([readonly]) + label, .dark-theme input[type=password]:focus:not([readonly]) + label,
+.dark-theme input[type=email]:focus:not([readonly]) + label, .dark-theme input[type=url]:focus:not([readonly]) + label,
+.dark-theme input[type=time]:focus:not([readonly]) + label, .dark-theme input[type=date]:focus:not([readonly]) + label,
+.dark-theme input[type=datetime-local]:focus:not([readonly]) + label, .dark-theme input[type=tel]:focus:not([readonly]) + label,
+.dark-theme input[type=number]:focus:not([readonly]) + label, .dark-theme input[type=search]:focus:not([readonly]) + label,
+.dark-theme textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #3cf;
+}
+
+/* Checkboxes */
+.dark-theme [type="checkbox"] + label:before,
+.dark-theme [type="checkbox"]:not(.filled-in) + label:after {
+  border-color: #a5a5a5;
+}
+.dark-theme [type="checkbox"]:checked + label:before {
+  border-left-color: transparent;
+  border-top-color: transparent;
+  border-right-color: #3cf;
+  border-bottom-color: #3cf;
+}
+.dark-theme [type="checkbox"].filled-in:checked + label:before {
+  border-right-color: #fff;
+  border-bottom-color: #fff;
+}
+
+/* Buttons */
+.dark-theme .btn-flat {
+  color: #e8e8e8;
+}
+
+/* Cards */
+.dark-theme .card {
+  background-color: #333;
+}
+
+/* Side nav */
+.dark-theme .side-nav {
+  background-color: #181818;
+}
+.dark-theme .side-nav a {
+  color: #e8e8e8;
+}
+.dark-theme .side-nav li.nav-display-mode,
+.dark-theme .side-nav li.nav-display-mode:hover {
+  background: none !important;
+}
+.dark-theme #side-nav li.nav-selected {
+  background-color: #484848;
+}
+.dark-theme .side-nav li:hover,
+.dark-theme .side-nav li.active {
+  background-color: #333;
+}
+.dark-theme .side-nav a:hover {
+  background-color: #555;
+}
+.dark-theme .side-nav li > a > i,
+.dark-theme .side-nav li > a > [class^="mdi-"],
+.dark-theme .side-nav li > a > [class*="mdi-"],
+.dark-theme .side-nav li > a > i.material-icons {
+  color: rgba(255, 255, 255, 0.8);
+}
+.dark-theme .nav-item-count {
+  background: rgba(255, 255, 255, 0.2);
+}
+.dark-theme #side-nav li.nav-selected .nav-item-text,
+.dark-theme #side-nav li.nav-selected .nav-item-icon,
+.dark-theme #side-nav li.nav-display-mode-selected a {
+  color: #3cf;
+}
+.dark-theme #side-nav .nav-unimportant a,
+.dark-theme #side-nav .nav-unimportant i {
+  color: #999 !important;
+}
+
+/* Collections */
+.dark-theme .collection {
+  border-color: #181818;
+}
+.dark-theme .collection .collection-item {
+  background-color: #333;
+  border-bottom-color: #181818;
+}
+
+/* Modals */
+.dark-theme .modal {
+  background-color: #555;
+}
+.dark-theme .modal .modal-footer {
+  background-color: #555;
+}
+.dark-theme .edit-dialog .modal-footer,
+.dark-theme .upload-dialog .modal-footer {
+  border-top: #333;
+  background-color: #555;
+}
+.dark-theme .picker {
+  color: #e8e8e8;
+}
+.dark-theme .picker__box {
+  background: #555;
+}
+.dark-theme .picker__day--infocus {
+  color: #e8e8e8;
+}
+.dark-theme .picker__nav--prev:before,
+.dark-theme .picker__nav--next:before {
+  border-left-color: #a8a8a8;
+  border-right-color: #a8a8a8;
+}
+.dark-theme .picker__nav--prev:hover,
+.dark-theme .picker__nav--next:hover {
+  background: #666;
+}
+
+
+/* Tags screen */
+.dark-theme.select-tags-screen .tag-text,
+.dark-theme.browse-by-tags-screen .tag-text {
+  color: #e8e8e8;
+}
+.dark-theme .num-places-tagged,
+.dark-theme .untagged-text {
+  color: #aaa;
+}
+.dark-theme.select-tags-screen .tag-buttons a,
+.dark-theme.browse-by-tags-screen .tag-buttons a {
+  color: #3cf;
+}
+.dark-theme.select-tags-screen .tag-buttons a:hover,
+.dark-theme.browse-by-tags-screen .tag-buttons a:hover {
+  background-color: #555;
+}
+.dark-theme .chip {
+  color: #e8e8e8;
+  background-color: #555;
+}
+
+/* Detail screen */
+.dark-theme.detail-screen .card {
+  color: #e8e8e8;
+}
+.dark-theme.detail-screen .card-icon {
+  color: #ddd;
+}
+.dark-theme .card-notes-toolbar {
+  border-top-color: #555;
+}
+.dark-theme.detail-screen .empty-text {
+  color: #999;
+}
+.dark-theme .address-title {
+  color: #999;
+}
+
+/* Map detail screen */
+.dark-theme.map-detail-screen .address {
+  color: #000;
+}
+
+/* Settings screen */
+.dark-theme .setting label {
+  color: #e8e8e8;
+}
+
+.dark-theme .setting label.select-label {
+  color: #e8e8e8  ;
+}
+
+/* Misc */
+.dark-theme .action-not-implemented {
+  color: #999 !important;
+}

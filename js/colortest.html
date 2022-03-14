@@ -1,0 +1,243 @@
+<html>
+  <head>
+    <style>
+      body {
+        background: #fff;
+      }
+      
+      #color-wheel {
+        position: absolute;
+        margin: 10px;
+      }
+      
+      canvas {
+        display: block;
+      }
+      
+      #picked-color-wrapper {
+        width: 44px;
+        height: 44px;
+        border-radius: 23px;
+        background: rgba(15, 15, 15, 0.15);
+        position: absolute;
+      }
+      
+      #picked-color {
+        width: 36px;
+        height: 36px;
+        border-radius: 18px;
+        position: relative;
+        left: 4px;
+        top: 4px;
+      }
+      
+    </style>
+    
+    <script src="../third-party-js/jquery-2.1.4.min.js"></script>
+  </head>
+  <body>
+    <div id="color-wheel">
+      <canvas id="picker" width="200" height="200"></canvas>
+      <div id="picked-color-wrapper"><div id="picked-color"></div></div>
+    </div>
+    <div id="mouse-coords"></div>
+    
+    <script>
+      $('#color-wheel').css({
+        width: $('#picker').width(),
+        height: $('#picker').height()
+      });
+
+      var canvas = document.getElementById('picker');
+      var context = canvas.getContext("2d");
+      var centerX = canvas.width / 2;
+      var centerY = canvas.height / 2;
+      var radius = canvas.width / 2;
+      var wheelWidth = 30;
+      var wheelWidthRatio = (radius - wheelWidth) / radius;
+      var counterClockwise = false;
+      
+      // Draw hue bar.
+      var gradient = context.createLinearGradient(0, 0, 64, 64);
+      gradient.addColorStop(0 , 'hsl(0, 100%, 50%)');
+      gradient.addColorStop(1.0 , 'hsl(360, 100%, 50%)');
+      context.fillStyle = gradient;
+      context.fill();
+
+      /*
+      // Draw color wheel.
+>>>>>>> c15bf5330f8d674316fe0f735bf5143c8d55e61a
+      for(var angle = 0; angle <= 360; ++angle) {
+        var startAngle = (angle - 1) * Math.PI / 180;
+        var endAngle = (angle + 1) * Math.PI / 180;
+        
+        context.beginPath();
+        context.moveTo(centerX, centerY);
+        context.arc(centerX, centerY, radius, startAngle, endAngle, counterClockwise);
+        context.closePath();
+        
+        var gradient = context.createRadialGradient(centerX, centerY, 0, centerX, centerY, radius);
+        gradient.addColorStop(0 , 'hsl('+ (360 - angle) +', 100%, 50%)');
+        gradient.addColorStop(1.0 , 'hsl('+ (360 - angle) +', 100%, 50%)');
+        context.fillStyle = gradient;
+        context.fill();
+      }
+
+      // Draw the inner circle background.
+      var innerCircleRadius = radius - wheelWidth;
+      context.beginPath();
+      context.moveTo(centerX, centerY);
+      context.arc(centerX, centerY, innerCircleRadius, 0, 360, counterClockwise);
+      context.closePath();
+      context.fillStyle = '#fff';
+      context.fill();
+
+      // Draw the inner circle colors.
+      var innerCircleColorRadius = innerCircleRadius - 25;
+      context.beginPath();
+      context.arc(centerX - 1, centerY, innerCircleColorRadius, Math.PI * 0.5, Math.PI * 1.5, false);
+      context.fillStyle = 'red';
+      context.fill();
+      
+      context.beginPath();
+      context.arc(centerX + 1, centerY, innerCircleColorRadius, Math.PI * 1.5, Math.PI * 0.5, false);
+      context.fillStyle = 'red';
+      context.fill();
+      
+      // Move the picked color circle and set its color.
+      var pickedColorCircle = $('#picked-color-wrapper');
+      var halfWidth = pickedColorCircle.width() / 2;
+      var degreeAngle = 0;
+      var radiansAngle = degreeAngle * Math.PI / 180;
+      pickedColorCircle.css({
+        left: Math.round(Math.cos(radiansAngle) * (radius - (wheelWidth / 2)) + centerX - halfWidth) + 'px',
+        top: Math.round(Math.sin(radiansAngle) * (radius - (wheelWidth / 2)) + centerY - halfWidth) + 'px'
+      });
+      $('#picked-color').css({
+        'background-color': 'hsl('+ (360 - degreeAngle) + ', 100%, 50%)'
+      });
+
+      // Listen to mousemove events.
+      $('#color-wheel').on('mousemove', function(e) {
+        var pickedColorCircle = $('#picked-color-wrapper');
+        var halfWidth = pickedColorCircle.width() / 2;
+        
+        var x = e.clientX - radius - halfWidth,
+            y = e.clientY - radius - halfWidth;
+
+        $('#mouse-coords').text(x + ', ' + y);
+
+        var radiansAngle = Math.atan2(y, x);
+        var degreeAngle = (180 / Math.PI) * radiansAngle;
+        var hue = radiansAngle / (Math.PI * 2);
+        if (hue < 0) hue += 1;
+
+        $('#picked-color-wrapper').css({
+          left: Math.round(Math.cos(radiansAngle) * (radius - (wheelWidth / 2)) + (canvas.width / 2) - halfWidth) + 'px',
+          top: Math.round(Math.sin(radiansAngle) * (radius - (wheelWidth / 2)) + (canvas.height / 2) - halfWidth) + 'px'
+        });
+        $('#picked-color').css({
+          'background-color': 'hsl('+ (360 - degreeAngle) + ', 100%, 50%)'
+        });
+
+        context.beginPath();
+        context.arc(centerX + 1, centerY, innerCircleColorRadius, Math.PI * 1.5, Math.PI * 0.5, false);
+        var rgb = hslToRgb(360 - degreeAngle, 1, 0.5);
+        context.fillStyle = 'hsl('+ (360 - degreeAngle) + ', 100%, 50%)';
+        context.fill();
+        });
+        */
+        
+        function hslToRgb(h, s, l) {
+          var r, g, b;
+
+          if(s == 0) {
+              r = g = b = l; // achromatic
+          }
+          else{
+            var hue2rgb = function hue2rgb(p, q, t) {
+              if(t < 0) t += 1;
+              if(t > 1) t -= 1;
+              if(t < 1/6) return p + (q - p) * 6 * t;
+              if(t < 1/2) return q;
+              if(t < 2/3) return p + (q - p) * (2/3 - t) * 6;
+              return p;
+            };
+
+            var q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+            var p = 2 * l - q;
+            r = hue2rgb(p, q, h + 1/3);
+            g = hue2rgb(p, q, h);
+            b = hue2rgb(p, q, h - 1/3);
+          }
+
+          return [ Math.round(r * 255), Math.round(g * 255), Math.round(b * 255) ];
+        }
+        */
+
+        // Draw the hue bar.
+        var hueBarX = 0;
+        var hueBarY = 0;
+        var hueBarWidth = 48;
+        var hueBarHeight = canvas.height;
+        var gradient = context.createLinearGradient(hueBarX, hueBarY, hueBarX, hueBarY + hueBarHeight);
+        gradient.addColorStop(0, 'hsl(0, 100%, 50%)');
+        gradient.addColorStop(0.167, 'hsl(60, 100%, 50%)');
+        gradient.addColorStop(0.333, 'hsl(120, 100%, 50%)');
+        gradient.addColorStop(0.5, 'hsl(180, 100%, 50%)');
+        gradient.addColorStop(0.667, 'hsl(240, 100%, 50%)');
+        gradient.addColorStop(0.833, 'hsl(300, 100%, 50%)');
+        gradient.addColorStop(1.0, 'hsl(360, 100%, 50%)');
+        context.fillStyle = gradient;
+        context.fillRect(hueBarX, hueBarY, hueBarX + hueBarWidth, hueBarY + hueBarHeight);
+
+
+        drawSatValSquare(context, 195);
+
+        function drawSatValSquare(context, hue) {
+
+
+          var satValX = hueBarX + hueBarWidth + 24;
+          var satValY = 0;
+          var satValWidth = canvas.height;
+          var satValHeight = canvas.height;
+
+          var gradient = context.createLinearGradient(satValX, satValY, satValX + satValWidth, satValY);
+          gradient.addColorStop(0, getHSLA(hue, 0, 1, 1));
+          gradient.addColorStop(1.0, getHSLA(hue, 1, 1, 1));
+          context.fillStyle = gradient;
+          context.fillRect(satValX, satValY, satValX + satValWidth, satValY + satValWidth);
+
+          var gradient = context.createLinearGradient(satValX, satValY, satValX, satValY + satValHeight);
+          gradient.addColorStop(0, getHSLA(hue, 0, 1, 0));
+          gradient.addColorStop(1.0, getHSLA(hue, 0, 0, 1));
+          context.fillStyle = gradient;
+          context.fillRect(satValX, satValY, satValX + satValWidth, satValY + satValWidth);
+        }
+
+        function getHSLA(hue, saturation, value, alpha) {
+          var h = hue;
+          var l = (2 - saturation) * value;
+          var s = saturation * value;
+
+          if(l == 0 || l == 2) {
+            s = 0;
+          }
+          else if(l <= 1) {
+            s /= l;
+          }
+          else {
+            s /= 2 - l;
+          }
+
+          l /= 2;
+
+          return 'hsla(' + h + ', ' + (s * 100) + '%, ' + (l * 100) + '%, ' + alpha + ')';
+        }
+
+        $('#picked-color-wrapper').on('click', function() {
+          $(this).css('background-color', getHSLA(195, 0, 0));
+        });
+    </script>
+  </body>
+</html>
